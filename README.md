@@ -37,11 +37,11 @@ The main objectives were to:
 
 ## Data
 
-Data for this project was obtained from TransLink's publicly available transit performance datasets.
+Data for this project was obtained from TransLink's publicly available Transit Service Performance Review (TSPR) datasets.
 
-- **Source:** [TransLink — Transit Service Performance Review](ВСТАВИТИ_ПОСИЛАННЯ)
+- **Source:** [TransLink — Transit Service Performance Review](https://www.translink.ca/plans-and-projects/strategies-plans-and-guidelines/managing-the-transit-network)
 - **Coverage:** 2023–2025
-- **Network scope:** SkyTrain only — Canada Line and Expo/Millennium Line
+- **Network scope:** SkyTrain — Canada Line and Expo/Millennium Line
 
 Six analytical datasets were prepared and used:
 
