@@ -19,6 +19,13 @@ The main objectives were to:
 - Compare station boardings and alightings during peak periods
 - Identify stations with the strongest weekday-oriented demand patterns
 
+## Potential Stakeholders
+
+- **TransLink Planning & Analytics Teams** — identifying ridership trends, high-demand stations, and changes in network usage.
+- **SkyTrain Operations Teams** — understanding peak-hour demand and heavily used network segments to support service planning.
+- **Transit Service Planners** — comparing weekday and weekend travel patterns and identifying areas of changing demand.
+- **Regional Transportation Decision-Makers** — using ridership and network-demand insights to support longer-term transit planning and investment decisions.
+
 ## Tools & Technologies
 
 - **Python (Pandas)** — data cleaning, transformation, validation, and preparation
@@ -30,7 +37,11 @@ The main objectives were to:
 
 ## Data
 
-The project uses public SkyTrain ridership and network demand data from TransLink.
+Data for this project was obtained from TransLink's publicly available transit performance datasets.
+
+- **Source:** [TransLink — Transit Service Performance Review](ВСТАВИТИ_ПОСИЛАННЯ)
+- **Coverage:** 2023–2025
+- **Network scope:** SkyTrain only — Canada Line and Expo/Millennium Line
 
 Six analytical datasets were prepared and used:
 
@@ -42,8 +53,6 @@ Six analytical datasets were prepared and used:
 - Annual line ridership
 
 The datasets cover **2023–2025** and include the **Canada Line** and **Expo/Millennium Line**.
-
-Python was used to standardize column names, clean categorical fields, validate missing values, convert hourly time ranges into a 24-hour format, and prepare the datasets for database analysis.
 
 ## Analysis Workflow
 
