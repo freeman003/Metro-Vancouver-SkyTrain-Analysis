@@ -35,24 +35,25 @@ The main objectives were to:
 - **DAX** — calculated measures, year-over-year comparisons, and dashboard metrics
 - **GitHub** — project documentation and version control
 
-## Data
+## Data Source
 
-Data for this project was obtained from TransLink's publicly available Transit Service Performance Review (TSPR) datasets.
+Data for this project was obtained from TransLink's **2025 Transit Service Performance Review (TSPR)**.
 
-- **Source:** [TransLink — Transit Service Performance Review](https://www.translink.ca/plans-and-projects/strategies-plans-and-guidelines/managing-the-transit-network)
-- **Coverage:** 2023–2025
-- **Network scope:** SkyTrain — Canada Line and Expo/Millennium Line
+**Official data page:** [TransLink — Managing the Transit Network / TSPR](https://www.translink.ca/plans-and-projects/strategies-plans-and-guidelines/managing-the-transit-network)
 
-Six analytical datasets were prepared and used:
+On the TransLink page, navigate to:
+**2025 Transit Service Performance Review → CSV Downloads → SkyTrain & West Coast Express Data**
 
-- Hourly station boardings and alightings
-- Annual station ridership
-- Rolling hourly segment volumes
-- Busiest network segments
-- Daily segment activity
-- Annual line ridership
+Datasets used:
+- Rail: Annual indicators by line, day type, and year
+- Rail: Daily volume by year, line, segment, and day type
+- Rail: Busiest segments by year, line, day type, and time period
+- Rail: Rolling hour passenger volumes by year, line, day type, segment, and direction
+- SkyTrain: Annual indicators by station, day type, and year
+- SkyTrain: Daily ridership by station, day type, hour, and year
 
-The datasets cover **2023–2025** and include the **Canada Line** and **Expo/Millennium Line**.
+**Analysis period:** 2023–2025  
+**Network scope:** Canada Line and Expo/Millennium Line
 
 ## Analysis Workflow
 
