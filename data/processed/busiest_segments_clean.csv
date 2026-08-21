@@ -1,0 +1,127 @@
+trav_year,seg_mode,day_type,time_period,trav_from_stn,trav_to_stn,hour_24,minute_15,avg_hrly_vol
+2023,Canada Line,Weekday,AM Peak,KE,BC,8,0,4419.524497
+2023,Canada Line,Weekday,Early AM,OR,KE,5,45,1095.919055
+2023,Canada Line,Weekday,Evening,BC,KE,18,0,2930.685473
+2023,Canada Line,Weekday,Late Night,BC,KE,0,0,329.901955
+2023,Canada Line,Weekday,Midday,KE,BC,9,0,2626.838519
+2023,Canada Line,Weekday,Night,BC,KE,21,0,1386.688563
+2023,Canada Line,Weekday,PM Peak,BC,KE,16,45,4346.132586
+2023,Canada Line,Saturday,AM Peak,KE,BC,8,45,1474.95342
+2023,Canada Line,Saturday,Early AM,SI,YA,5,45,439.8807305
+2023,Canada Line,Saturday,Evening,BC,KE,18,0,2025.064528
+2023,Canada Line,Saturday,Late Night,OV,BC,0,0,606.543491
+2023,Canada Line,Saturday,Midday,KE,BC,13,30,2213.862049
+2023,Canada Line,Saturday,Night,BC,KE,21,30,1291.107686
+2023,Canada Line,Saturday,PM Peak,BC,KE,16,45,2321.081324
+2023,Canada Line,Sunday/Holiday,AM Peak,KE,BC,8,45,1126.402918
+2023,Canada Line,Sunday/Holiday,Early AM,SI,YA,5,45,410.6897079
+2023,Canada Line,Sunday/Holiday,Evening,BC,KE,18,0,1731.430455
+2023,Canada Line,Sunday/Holiday,Late Night,BC,KE,0,0,260.4848617
+2023,Canada Line,Sunday/Holiday,Midday,KE,BC,13,15,1868.182091
+2023,Canada Line,Sunday/Holiday,Night,BP,MD,21,0,1038.108934
+2023,Canada Line,Sunday/Holiday,PM Peak,BC,KE,16,45,1975.826748
+2023,Expo/Millennium Line,Weekday,AM Peak,BW,MN,8,0,10177.96568
+2023,Expo/Millennium Line,Weekday,Early AM,NW,TS,5,45,3735.248661
+2023,Expo/Millennium Line,Weekday,Evening,MN,BW,18,0,6028.247304
+2023,Expo/Millennium Line,Weekday,Late Night,MN,BW,0,0,1222.348018
+2023,Expo/Millennium Line,Weekday,Midday,BW,MN,9,0,5683.168293
+2023,Expo/Millennium Line,Weekday,Night,MN,BW,21,0,3324.160162
+2023,Expo/Millennium Line,Weekday,PM Peak,MN,BW,16,45,9306.743084
+2023,Expo/Millennium Line,Saturday,AM Peak,BW,MN,8,45,3307.24429
+2023,Expo/Millennium Line,Saturday,Early AM,SR,CO,5,45,1144.386383
+2023,Expo/Millennium Line,Saturday,Evening,MN,BW,18,0,4283.179131
+2023,Expo/Millennium Line,Saturday,Late Night,MN,BW,0,0,2088.733962
+2023,Expo/Millennium Line,Saturday,Midday,BW,MN,14,0,4106.270518
+2023,Expo/Millennium Line,Saturday,Night,MN,BW,21,30,3584.194768
+2023,Expo/Millennium Line,Saturday,PM Peak,MN,BW,16,45,4601.014618
+2023,Expo/Millennium Line,Sunday/Holiday,AM Peak,BW,MN,7,30,2596.501719
+2023,Expo/Millennium Line,Sunday/Holiday,Early AM,SR,CO,5,45,117.6375314
+2023,Expo/Millennium Line,Sunday/Holiday,Evening,MN,BW,18,0,3567.351407
+2023,Expo/Millennium Line,Sunday/Holiday,Late Night,CO,SR,0,0,681.0351881
+2023,Expo/Millennium Line,Sunday/Holiday,Midday,BW,MN,13,45,3349.25508
+2023,Expo/Millennium Line,Sunday/Holiday,Night,MN,BW,21,0,2091.495404
+2023,Expo/Millennium Line,Sunday/Holiday,PM Peak,MN,BW,17,0,4011.177222
+2024,Canada Line,Weekday,AM Peak,KE,BC,8,0,4647.977223
+2024,Canada Line,Weekday,Early AM,OR,KE,5,45,1169.253026
+2024,Canada Line,Weekday,Evening,BC,KE,18,0,2998.006942
+2024,Canada Line,Weekday,Late Night,BC,KE,0,0,319.7820564
+2024,Canada Line,Weekday,Midday,KE,BC,9,0,2808.887967
+2024,Canada Line,Weekday,Night,BC,KE,21,0,1396.741987
+2024,Canada Line,Weekday,PM Peak,BC,KE,16,45,4642.381754
+2024,Canada Line,Saturday,AM Peak,KE,BC,8,45,1491.209011
+2024,Canada Line,Saturday,Early AM,SI,YA,5,45,450.2942702
+2024,Canada Line,Saturday,Evening,BC,KE,18,0,2040.308523
+2024,Canada Line,Saturday,Late Night,OV,BC,0,0,624.8535681
+2024,Canada Line,Saturday,Midday,KE,BC,13,30,2249.631049
+2024,Canada Line,Saturday,Night,BC,KE,21,30,1380.930081
+2024,Canada Line,Saturday,PM Peak,BC,KE,16,30,2281.523385
+2024,Canada Line,Sunday/Holiday,AM Peak,KE,BC,8,45,1125.646252
+2024,Canada Line,Sunday/Holiday,Early AM,SI,YA,5,45,421.0280722
+2024,Canada Line,Sunday/Holiday,Evening,BC,KE,18,0,1737.254681
+2024,Canada Line,Sunday/Holiday,Late Night,BC,KE,0,0,257.5278312
+2024,Canada Line,Sunday/Holiday,Midday,KE,BC,13,0,1906.887275
+2024,Canada Line,Sunday/Holiday,Night,BP,MD,21,0,1005.18855
+2024,Canada Line,Sunday/Holiday,PM Peak,BC,KE,16,30,2013.483109
+2024,Expo/Millennium Line,Weekday,AM Peak,BW,MN,8,0,10765.36745
+2024,Expo/Millennium Line,Weekday,Early AM,NW,TS,5,45,4081.372963
+2024,Expo/Millennium Line,Weekday,Evening,MN,BW,18,0,6377.142081
+2024,Expo/Millennium Line,Weekday,Late Night,MN,BW,0,0,1269.545861
+2024,Expo/Millennium Line,Weekday,Midday,BW,MN,9,0,6215.884404
+2024,Expo/Millennium Line,Weekday,Night,MN,BW,21,0,3503.412873
+2024,Expo/Millennium Line,Weekday,PM Peak,MN,BW,16,45,10107.38865
+2024,Expo/Millennium Line,Saturday,AM Peak,BW,MN,8,45,3491.822351
+2024,Expo/Millennium Line,Saturday,Early AM,SR,CO,5,45,1291.401242
+2024,Expo/Millennium Line,Saturday,Evening,MN,BW,18,0,4396.529327
+2024,Expo/Millennium Line,Saturday,Late Night,MN,BW,0,0,2127.559238
+2024,Expo/Millennium Line,Saturday,Midday,BW,MN,14,0,4221.281523
+2024,Expo/Millennium Line,Saturday,Night,MN,BW,21,30,3930.365929
+2024,Expo/Millennium Line,Saturday,PM Peak,MN,BW,16,45,4713.589742
+2024,Expo/Millennium Line,Sunday/Holiday,AM Peak,BW,MN,7,30,2835.850576
+2024,Expo/Millennium Line,Sunday/Holiday,Early AM,SR,CO,5,45,50.65091493
+2024,Expo/Millennium Line,Sunday/Holiday,Evening,MN,BW,18,0,3805.166553
+2024,Expo/Millennium Line,Sunday/Holiday,Late Night,NW,CO,0,0,758.6768807
+2024,Expo/Millennium Line,Sunday/Holiday,Midday,BW,MN,13,30,3553.342909
+2024,Expo/Millennium Line,Sunday/Holiday,Night,MN,BW,21,0,2352.970159
+2024,Expo/Millennium Line,Sunday/Holiday,PM Peak,MN,BW,16,45,4177.056699
+2025,Canada Line,Weekday,AM Peak,KE,BC,8,0,4763.87242
+2025,Canada Line,Weekday,Early AM,LG,OR,5,45,1246.769202
+2025,Canada Line,Weekday,Evening,BC,KE,18,0,3025.457093
+2025,Canada Line,Weekday,Late Night,BC,KE,0,0,300.0284716
+2025,Canada Line,Weekday,Midday,KE,BC,9,0,2898.359309
+2025,Canada Line,Weekday,Night,BC,KE,21,0,1401.049526
+2025,Canada Line,Weekday,PM Peak,BC,KE,16,45,4871.258232
+2025,Canada Line,Saturday,AM Peak,KE,BC,8,45,1470.575622
+2025,Canada Line,Saturday,Early AM,SI,YA,5,45,473.0683605
+2025,Canada Line,Saturday,Evening,BC,KE,18,0,1992.370804
+2025,Canada Line,Saturday,Late Night,BC,KE,0,0,535.1693407
+2025,Canada Line,Saturday,Midday,KE,BC,13,15,2226.310874
+2025,Canada Line,Saturday,Night,BC,KE,21,15,1338.124536
+2025,Canada Line,Saturday,PM Peak,BC,KE,17,0,2268.793187
+2025,Canada Line,Sunday/Holiday,AM Peak,KE,BC,8,45,1124.45654
+2025,Canada Line,Sunday/Holiday,Early AM,OR,KE,5,45,441.4142087
+2025,Canada Line,Sunday/Holiday,Evening,BC,KE,18,0,1788.689224
+2025,Canada Line,Sunday/Holiday,Late Night,BP,MD,0,0,256.5876902
+2025,Canada Line,Sunday/Holiday,Midday,KE,BC,13,15,1922.456264
+2025,Canada Line,Sunday/Holiday,Night,BC,KE,21,0,1002.126675
+2025,Canada Line,Sunday/Holiday,PM Peak,BC,KE,16,30,2071.611044
+2025,Expo/Millennium Line,Weekday,AM Peak,BW,MN,8,0,10877.49485
+2025,Expo/Millennium Line,Weekday,Early AM,NW,TS,5,45,4211.632167
+2025,Expo/Millennium Line,Weekday,Evening,MN,BW,18,0,6335.473208
+2025,Expo/Millennium Line,Weekday,Late Night,MN,BW,0,0,1224.485635
+2025,Expo/Millennium Line,Weekday,Midday,BW,MN,9,0,6418.6479
+2025,Expo/Millennium Line,Weekday,Night,MN,BW,21,0,3382.982389
+2025,Expo/Millennium Line,Weekday,PM Peak,MN,BW,16,45,10255.66462
+2025,Expo/Millennium Line,Saturday,AM Peak,BW,MN,8,45,3388.794948
+2025,Expo/Millennium Line,Saturday,Early AM,SR,CO,5,45,1293.839308
+2025,Expo/Millennium Line,Saturday,Evening,MN,BW,18,0,4241.55423
+2025,Expo/Millennium Line,Saturday,Late Night,MN,BW,0,0,1874.099945
+2025,Expo/Millennium Line,Saturday,Midday,BW,MN,14,0,3937.285501
+2025,Expo/Millennium Line,Saturday,Night,MN,BW,21,15,3508.482867
+2025,Expo/Millennium Line,Saturday,PM Peak,MN,BW,16,45,4564.56851
+2025,Expo/Millennium Line,Sunday/Holiday,AM Peak,BW,MN,7,30,2861.136182
+2025,Expo/Millennium Line,Sunday/Holiday,Early AM,SR,CO,5,45,51.08251623
+2025,Expo/Millennium Line,Sunday/Holiday,Evening,MN,BW,18,0,3792.546878
+2025,Expo/Millennium Line,Sunday/Holiday,Late Night,NW,CO,0,0,714.7240766
+2025,Expo/Millennium Line,Sunday/Holiday,Midday,BW,MN,13,45,3485.026125
+2025,Expo/Millennium Line,Sunday/Holiday,Night,MN,BW,21,0,2353.582512
+2025,Expo/Millennium Line,Sunday/Holiday,PM Peak,MN,BW,16,45,4185.998536

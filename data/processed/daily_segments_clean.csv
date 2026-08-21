@@ -1,0 +1,991 @@
+trav_year,seg_mode,day_type,from_stn_short,to_stn_short,from_stn_long,to_stn_long,seg_dir,seg_i_d,avg_daily_vol
+2023,Canada Line,Weekday,AB,BP,Aberdeen Stn,Bridgeport Stn,Inbound,89,15323.58293
+2023,Canada Line,Weekday,AB,BP,Aberdeen Stn,Bridgeport Stn,Outbound,89,14820.1562
+2023,Canada Line,Weekday,BC,OV,Broadway-City Hall Stn,Olympic Village Stn,Inbound,83,31304.51513
+2023,Canada Line,Weekday,BC,OV,Broadway-City Hall Stn,Olympic Village Stn,Outbound,83,30550.11482
+2023,Canada Line,Weekday,BP,MD,Bridgeport Stn,Marine Drive Stn,Inbound,88,26801.80898
+2023,Canada Line,Weekday,BP,MD,Bridgeport Stn,Marine Drive Stn,Outbound,88,26897.16998
+2023,Canada Line,Weekday,KE,BC,King Edward Stn,Broadway-City Hall Stn,Inbound,84,32903.6319
+2023,Canada Line,Weekday,KE,BC,King Edward Stn,Broadway-City Hall Stn,Outbound,84,32273.40498
+2023,Canada Line,Weekday,LA,AB,Lansdowne Stn,Aberdeen Stn,Inbound,90,13470.58106
+2023,Canada Line,Weekday,LA,AB,Lansdowne Stn,Aberdeen Stn,Outbound,90,12757.45758
+2023,Canada Line,Weekday,LG,OR,Langara-49th Stn,Oakridge-41st Stn,Inbound,86,31654.96464
+2023,Canada Line,Weekday,LG,OR,Langara-49th Stn,Oakridge-41st Stn,Outbound,86,31429.89465
+2023,Canada Line,Weekday,MD,LG,Marine Drive Stn,Langara-49th Stn,Inbound,87,30268.80685
+2023,Canada Line,Weekday,MD,LG,Marine Drive Stn,Langara-49th Stn,Outbound,87,30306.91253
+2023,Canada Line,Weekday,OR,KE,Oakridge-41st Stn,King Edward Stn,Inbound,85,31677.50179
+2023,Canada Line,Weekday,OR,KE,Oakridge-41st Stn,King Edward Stn,Outbound,85,31142.59997
+2023,Canada Line,Weekday,OV,YT,Olympic Village Stn,Yaletown-Roundhouse Stn,Inbound,82,31537.70114
+2023,Canada Line,Weekday,OV,YT,Olympic Village Stn,Yaletown-Roundhouse Stn,Outbound,82,30375.84184
+2023,Canada Line,Weekday,RB,LA,Brighouse Stn,Lansdowne Stn,Inbound,91,10191.36854
+2023,Canada Line,Weekday,RB,LA,Brighouse Stn,Lansdowne Stn,Outbound,91,9429.833546
+2023,Canada Line,Weekday,SI,TE,Sea Island Stn,Templeton Stn,Inbound,93,7609.8563
+2023,Canada Line,Weekday,SI,TE,Sea Island Stn,Templeton Stn,Outbound,93,7563.749275
+2023,Canada Line,Weekday,TE,BP,Templeton Stn,Bridgeport Stn,Inbound,92,7659.137495
+2023,Canada Line,Weekday,TE,BP,Templeton Stn,Bridgeport Stn,Outbound,92,7859.393352
+2023,Canada Line,Weekday,VA,WC,Vancouver City Centre Stn,Waterfront Stn - CL,Inbound,80,13792.85415
+2023,Canada Line,Weekday,VA,WC,Vancouver City Centre Stn,Waterfront Stn - CL,Outbound,80,13083.91526
+2023,Canada Line,Weekday,YA,SI,YVR-Airport Stn,Sea Island Stn,Inbound,94,7400.866584
+2023,Canada Line,Weekday,YA,SI,YVR-Airport Stn,Sea Island Stn,Outbound,94,7217.350422
+2023,Canada Line,Weekday,YT,VA,Yaletown-Roundhouse Stn,Vancouver City Centre Stn,Inbound,81,27234.25078
+2023,Canada Line,Weekday,YT,VA,Yaletown-Roundhouse Stn,Vancouver City Centre Stn,Outbound,81,25822.46352
+2023,Canada Line,Saturday,AB,BP,Aberdeen Stn,Bridgeport Stn,Inbound,89,13290.79022
+2023,Canada Line,Saturday,AB,BP,Aberdeen Stn,Bridgeport Stn,Outbound,89,12967.92421
+2023,Canada Line,Saturday,BC,OV,Broadway-City Hall Stn,Olympic Village Stn,Inbound,83,25895.73735
+2023,Canada Line,Saturday,BC,OV,Broadway-City Hall Stn,Olympic Village Stn,Outbound,83,24608.6289
+2023,Canada Line,Saturday,BP,MD,Bridgeport Stn,Marine Drive Stn,Inbound,88,23572.68784
+2023,Canada Line,Saturday,BP,MD,Bridgeport Stn,Marine Drive Stn,Outbound,88,23283.74708
+2023,Canada Line,Saturday,KE,BC,King Edward Stn,Broadway-City Hall Stn,Inbound,84,27067.83303
+2023,Canada Line,Saturday,KE,BC,King Edward Stn,Broadway-City Hall Stn,Outbound,84,25770.59432
+2023,Canada Line,Saturday,LA,AB,Lansdowne Stn,Aberdeen Stn,Inbound,90,11347.79274
+2023,Canada Line,Saturday,LA,AB,Lansdowne Stn,Aberdeen Stn,Outbound,90,10880.47369
+2023,Canada Line,Saturday,LG,OR,Langara-49th Stn,Oakridge-41st Stn,Inbound,86,26145.43258
+2023,Canada Line,Saturday,LG,OR,Langara-49th Stn,Oakridge-41st Stn,Outbound,86,25303.2469
+2023,Canada Line,Saturday,MD,LG,Marine Drive Stn,Langara-49th Stn,Inbound,87,25395.88321
+2023,Canada Line,Saturday,MD,LG,Marine Drive Stn,Langara-49th Stn,Outbound,87,24891.91085
+2023,Canada Line,Saturday,OR,KE,Oakridge-41st Stn,King Edward Stn,Inbound,85,26108.16456
+2023,Canada Line,Saturday,OR,KE,Oakridge-41st Stn,King Edward Stn,Outbound,85,24958.93315
+2023,Canada Line,Saturday,OV,YT,Olympic Village Stn,Yaletown-Roundhouse Stn,Inbound,82,25899.47613
+2023,Canada Line,Saturday,OV,YT,Olympic Village Stn,Yaletown-Roundhouse Stn,Outbound,82,24429.05768
+2023,Canada Line,Saturday,RB,LA,Brighouse Stn,Lansdowne Stn,Inbound,91,8397.33919
+2023,Canada Line,Saturday,RB,LA,Brighouse Stn,Lansdowne Stn,Outbound,91,7964.404404
+2023,Canada Line,Saturday,SI,TE,Sea Island Stn,Templeton Stn,Inbound,93,6862.299452
+2023,Canada Line,Saturday,SI,TE,Sea Island Stn,Templeton Stn,Outbound,93,6530.972109
+2023,Canada Line,Saturday,TE,BP,Templeton Stn,Bridgeport Stn,Inbound,92,7808.29633
+2023,Canada Line,Saturday,TE,BP,Templeton Stn,Bridgeport Stn,Outbound,92,7707.696248
+2023,Canada Line,Saturday,VA,WC,Vancouver City Centre Stn,Waterfront Stn - CL,Inbound,80,10564.66034
+2023,Canada Line,Saturday,VA,WC,Vancouver City Centre Stn,Waterfront Stn - CL,Outbound,80,9747.629412
+2023,Canada Line,Saturday,YA,SI,YVR-Airport Stn,Sea Island Stn,Inbound,94,6855.292181
+2023,Canada Line,Saturday,YA,SI,YVR-Airport Stn,Sea Island Stn,Outbound,94,6439.751003
+2023,Canada Line,Saturday,YT,VA,Yaletown-Roundhouse Stn,Vancouver City Centre Stn,Inbound,81,21880.88128
+2023,Canada Line,Saturday,YT,VA,Yaletown-Roundhouse Stn,Vancouver City Centre Stn,Outbound,81,20513.14701
+2023,Canada Line,Sunday/Holiday,AB,BP,Aberdeen Stn,Bridgeport Stn,Inbound,89,10642.35374
+2023,Canada Line,Sunday/Holiday,AB,BP,Aberdeen Stn,Bridgeport Stn,Outbound,89,10451.9586
+2023,Canada Line,Sunday/Holiday,BC,OV,Broadway-City Hall Stn,Olympic Village Stn,Inbound,83,20649.96265
+2023,Canada Line,Sunday/Holiday,BC,OV,Broadway-City Hall Stn,Olympic Village Stn,Outbound,83,20371.33016
+2023,Canada Line,Sunday/Holiday,BP,MD,Bridgeport Stn,Marine Drive Stn,Inbound,88,20158.65401
+2023,Canada Line,Sunday/Holiday,BP,MD,Bridgeport Stn,Marine Drive Stn,Outbound,88,19728.34622
+2023,Canada Line,Sunday/Holiday,KE,BC,King Edward Stn,Broadway-City Hall Stn,Inbound,84,21934.63557
+2023,Canada Line,Sunday/Holiday,KE,BC,King Edward Stn,Broadway-City Hall Stn,Outbound,84,21466.54079
+2023,Canada Line,Sunday/Holiday,LA,AB,Lansdowne Stn,Aberdeen Stn,Inbound,90,9062.010753
+2023,Canada Line,Sunday/Holiday,LA,AB,Lansdowne Stn,Aberdeen Stn,Outbound,90,8771.737557
+2023,Canada Line,Sunday/Holiday,LG,OR,Langara-49th Stn,Oakridge-41st Stn,Inbound,86,21791.33949
+2023,Canada Line,Sunday/Holiday,LG,OR,Langara-49th Stn,Oakridge-41st Stn,Outbound,86,21155.3019
+2023,Canada Line,Sunday/Holiday,MD,LG,Marine Drive Stn,Langara-49th Stn,Inbound,87,21397.41567
+2023,Canada Line,Sunday/Holiday,MD,LG,Marine Drive Stn,Langara-49th Stn,Outbound,87,20922.84561
+2023,Canada Line,Sunday/Holiday,OR,KE,Oakridge-41st Stn,King Edward Stn,Inbound,85,21470.77874
+2023,Canada Line,Sunday/Holiday,OR,KE,Oakridge-41st Stn,King Edward Stn,Outbound,85,20821.23085
+2023,Canada Line,Sunday/Holiday,OV,YT,Olympic Village Stn,Yaletown-Roundhouse Stn,Inbound,82,20612.5363
+2023,Canada Line,Sunday/Holiday,OV,YT,Olympic Village Stn,Yaletown-Roundhouse Stn,Outbound,82,20177.86188
+2023,Canada Line,Sunday/Holiday,RB,LA,Brighouse Stn,Lansdowne Stn,Inbound,91,6795.454329
+2023,Canada Line,Sunday/Holiday,RB,LA,Brighouse Stn,Lansdowne Stn,Outbound,91,6513.563228
+2023,Canada Line,Sunday/Holiday,SI,TE,Sea Island Stn,Templeton Stn,Inbound,93,7142.613987
+2023,Canada Line,Sunday/Holiday,SI,TE,Sea Island Stn,Templeton Stn,Outbound,93,6461.132431
+2023,Canada Line,Sunday/Holiday,TE,BP,Templeton Stn,Bridgeport Stn,Inbound,92,7974.408818
+2023,Canada Line,Sunday/Holiday,TE,BP,Templeton Stn,Bridgeport Stn,Outbound,92,7643.26473
+2023,Canada Line,Sunday/Holiday,VA,WC,Vancouver City Centre Stn,Waterfront Stn - CL,Inbound,80,8571.531639
+2023,Canada Line,Sunday/Holiday,VA,WC,Vancouver City Centre Stn,Waterfront Stn - CL,Outbound,80,8106.541535
+2023,Canada Line,Sunday/Holiday,YA,SI,YVR-Airport Stn,Sea Island Stn,Inbound,94,7186.723632
+2023,Canada Line,Sunday/Holiday,YA,SI,YVR-Airport Stn,Sea Island Stn,Outbound,94,6412.476116
+2023,Canada Line,Sunday/Holiday,YT,VA,Yaletown-Roundhouse Stn,Vancouver City Centre Stn,Inbound,81,17615.35992
+2023,Canada Line,Sunday/Holiday,YT,VA,Yaletown-Roundhouse Stn,Vancouver City Centre Stn,Outbound,81,17030.35758
+2023,Expo/Millennium Line,Weekday,BD,SA,Braid Stn,Sapperton Stn,Inbound,56,16669.29595
+2023,Expo/Millennium Line,Weekday,BD,SA,Braid Stn,Sapperton Stn,Outbound,56,16859.15256
+2023,Expo/Millennium Line,Weekday,BQ,LH,Burquitlam Stn,Lougheed Stn,Inbound,68,13705.02874
+2023,Expo/Millennium Line,Weekday,BQ,LH,Burquitlam Stn,Lougheed Stn,Outbound,68,13696.93064
+2023,Expo/Millennium Line,Weekday,BR,GM,Brentwood Stn,Gilmore Stn,Inbound,38,16419.44767
+2023,Expo/Millennium Line,Weekday,BR,GM,Brentwood Stn,Gilmore Stn,Outbound,38,16058.79955
+2023,Expo/Millennium Line,Weekday,BU,WF,Burrard Stn,Waterfront Stn - Expo/SeaBus,Inbound,23,13307.11868
+2023,Expo/Millennium Line,Weekday,BU,WF,Burrard Stn,Waterfront Stn - Expo/SeaBus,Outbound,23,16094.21852
+2023,Expo/Millennium Line,Weekday,BW,CM,Commercial-Broadway Stn,Commercial Drive Stn,Inbound,59,20551.12944
+2023,Expo/Millennium Line,Weekday,BW,CM,Commercial-Broadway Stn,Commercial Drive Stn,Outbound,59,21040.43864
+2023,Expo/Millennium Line,Weekday,BW,MN,Commercial-Broadway Stn,Main Street Stn,Inbound,60,60263.76098
+2023,Expo/Millennium Line,Weekday,BW,MN,Commercial-Broadway Stn,Main Street Stn,Outbound,60,59721.0447
+2023,Expo/Millennium Line,Weekday,CC,IC,Coquitlam Central Stn - Millennium,Inlet Centre Stn,Inbound,74,9536.386753
+2023,Expo/Millennium Line,Weekday,CC,IC,Coquitlam Central Stn - Millennium,Inlet Centre Stn,Outbound,74,9619.930118
+2023,Expo/Millennium Line,Weekday,CM,VC,Commercial Drive Stn,VCC-Clark Stn,Inbound,29,2456.439187
+2023,Expo/Millennium Line,Weekday,CM,VC,Commercial Drive Stn,VCC-Clark Stn,Outbound,29,2748.751716
+2023,Expo/Millennium Line,Weekday,CO,NW,Columbia Stn,New Westminster Stn,Inbound,14,46867.01575
+2023,Expo/Millennium Line,Weekday,CO,NW,Columbia Stn,New Westminster Stn,Outbound,14,44934.29539
+2023,Expo/Millennium Line,Weekday,ED,RO,Edmonds Stn,Royal Oak Stn,Inbound,8,52275.77032
+2023,Expo/Millennium Line,Weekday,ED,RO,Edmonds Stn,Royal Oak Stn,Outbound,8,50197.497
+2023,Expo/Millennium Line,Weekday,GM,RU,Gilmore Stn,Rupert Stn,Inbound,36,17123.57732
+2023,Expo/Millennium Line,Weekday,GM,RU,Gilmore Stn,Rupert Stn,Outbound,36,16491.81582
+2023,Expo/Millennium Line,Weekday,GV,BU,Granville Stn,Burrard Stn,Inbound,26,29906.79124
+2023,Expo/Millennium Line,Weekday,GV,BU,Granville Stn,Burrard Stn,Outbound,26,32024.8511
+2023,Expo/Millennium Line,Weekday,GW,SR,Gateway Stn,Scott Road Stn,Inbound,19,32425.58676
+2023,Expo/Millennium Line,Weekday,GW,SR,Gateway Stn,Scott Road Stn,Outbound,19,30737.6398
+2023,Expo/Millennium Line,Weekday,HO,BR,Holdom Stn,Brentwood Stn,Inbound,40,15625.54755
+2023,Expo/Millennium Line,Weekday,HO,BR,Holdom Stn,Brentwood Stn,Outbound,40,14909.42002
+2023,Expo/Millennium Line,Weekday,IC,MC,Inlet Centre Stn,Moody Center Stn,Inbound,72,10798.00336
+2023,Expo/Millennium Line,Weekday,IC,MC,Inlet Centre Stn,Moody Center Stn,Outbound,72,10864.83193
+2023,Expo/Millennium Line,Weekday,JY,TN,Joyce Stn,29th Av Stn,Inbound,67,53429.68886
+2023,Expo/Millennium Line,Weekday,JY,TN,Joyce Stn,29th Av Stn,Outbound,67,53265.72178
+2023,Expo/Millennium Line,Weekday,KG,SC,King George Stn,Surrey Central Stn,Inbound,25,14279.69346
+2023,Expo/Millennium Line,Weekday,KG,SC,King George Stn,Surrey Central Stn,Outbound,25,6972.041375
+2023,Expo/Millennium Line,Weekday,LC,SP,Lake City Way Stn,Sperling Stn,Inbound,44,14016.33227
+2023,Expo/Millennium Line,Weekday,LC,SP,Lake City Way Stn,Sperling Stn,Outbound,44,13784.83517
+2023,Expo/Millennium Line,Weekday,LH,BD,Lougheed Stn,Braid Stn,Inbound,53,14553.65634
+2023,Expo/Millennium Line,Weekday,LH,BD,Lougheed Stn,Braid Stn,Outbound,53,14761.38246
+2023,Expo/Millennium Line,Weekday,LH,PW,Lougheed Stn,Production Way Stn,Inbound,50,15934.41941
+2023,Expo/Millennium Line,Weekday,LH,PW,Lougheed Stn,Production Way Stn,Outbound,50,15682.05378
+2023,Expo/Millennium Line,Weekday,LL,LN,Lafarge Lake/Douglas College Stn,Lincoln Stn,Inbound,78,2233.483152
+2023,Expo/Millennium Line,Weekday,LL,LN,Lafarge Lake/Douglas College Stn,Lincoln Stn,Outbound,78,2276.334415
+2023,Expo/Millennium Line,Weekday,LN,CC,Lincoln Stn,Coquitlam Central Stn - Millennium,Inbound,76,5502.658598
+2023,Expo/Millennium Line,Weekday,LN,CC,Lincoln Stn,Coquitlam Central Stn - Millennium,Outbound,76,5289.439955
+2023,Expo/Millennium Line,Weekday,MC,BQ,Moody Center Stn,Burquitlam Stn,Inbound,70,11828.03213
+2023,Expo/Millennium Line,Weekday,MC,BQ,Moody Center Stn,Burquitlam Stn,Outbound,70,11710.79265
+2023,Expo/Millennium Line,Weekday,MN,ST,Main Street Stn,Stadium Stn,Inbound,57,56760.87024
+2023,Expo/Millennium Line,Weekday,MN,ST,Main Street Stn,Stadium Stn,Outbound,57,55887.0168
+2023,Expo/Millennium Line,Weekday,MT,PT,Metrotown Stn,Patterson Stn,Inbound,4,52351.45237
+2023,Expo/Millennium Line,Weekday,MT,PT,Metrotown Stn,Patterson Stn,Outbound,4,52002.64585
+2023,Expo/Millennium Line,Weekday,,BW,Nanaimo Stn,Commercial-Broadway Stn,Inbound,62,55558.6184
+2023,Expo/Millennium Line,Weekday,,BW,Nanaimo Stn,Commercial-Broadway Stn,Outbound,62,55364.53373
+2023,Expo/Millennium Line,Weekday,NW,TS,New Westminster Stn,22nd St Stn,Inbound,12,47859.03848
+2023,Expo/Millennium Line,Weekday,NW,TS,New Westminster Stn,22nd St Stn,Outbound,12,46345.11583
+2023,Expo/Millennium Line,Weekday,PT,JY,Patterson Stn,Joyce Stn,Inbound,3,52725.2792
+2023,Expo/Millennium Line,Weekday,PT,JY,Patterson Stn,Joyce Stn,Outbound,3,52456.67869
+2023,Expo/Millennium Line,Weekday,PW,LC,Production Way Stn,Lake City Way Stn,Inbound,48,13951.75464
+2023,Expo/Millennium Line,Weekday,PW,LC,Production Way Stn,Lake City Way Stn,Outbound,48,13690.43862
+2023,Expo/Millennium Line,Weekday,RE,CM,Renfrew Stn,Commercial Drive Stn,Inbound,32,18862.82267
+2023,Expo/Millennium Line,Weekday,RE,CM,Renfrew Stn,Commercial Drive Stn,Outbound,32,17961.53841
+2023,Expo/Millennium Line,Weekday,RO,MT,Royal Oak Stn,Metrotown Stn,Inbound,6,54250.90058
+2023,Expo/Millennium Line,Weekday,RO,MT,Royal Oak Stn,Metrotown Stn,Outbound,6,52097.61915
+2023,Expo/Millennium Line,Weekday,RU,RE,Rupert Stn,Renfrew Stn,Inbound,34,17985.46291
+2023,Expo/Millennium Line,Weekday,RU,RE,Rupert Stn,Renfrew Stn,Outbound,34,17253.05233
+2023,Expo/Millennium Line,Weekday,SA,CO,Sapperton Stn,Columbia Stn,Inbound,16,18318.85086
+2023,Expo/Millennium Line,Weekday,SA,CO,Sapperton Stn,Columbia Stn,Outbound,16,18323.65206
+2023,Expo/Millennium Line,Weekday,SC,GW,Surrey Central Stn,Gateway Stn,Inbound,21,27989.28344
+2023,Expo/Millennium Line,Weekday,SC,GW,Surrey Central Stn,Gateway Stn,Outbound,21,27010.68422
+2023,Expo/Millennium Line,Weekday,SP,HO,Sperling Stn,Holdom Stn,Inbound,42,14546.40731
+2023,Expo/Millennium Line,Weekday,SP,HO,Sperling Stn,Holdom Stn,Outbound,42,14125.09715
+2023,Expo/Millennium Line,Weekday,SR,CO,Scott Road Stn,Columbia Stn,Inbound,17,38469.11258
+2023,Expo/Millennium Line,Weekday,SR,CO,Scott Road Stn,Columbia Stn,Outbound,17,37101.56967
+2023,Expo/Millennium Line,Weekday,ST,GV,Stadium Stn,Granville Stn,Inbound,46,48683.02988
+2023,Expo/Millennium Line,Weekday,ST,GV,Stadium Stn,Granville Stn,Outbound,46,48289.29302
+2023,Expo/Millennium Line,Weekday,TN,,29th Av Stn,Nanaimo Stn,Inbound,64,54587.24242
+2023,Expo/Millennium Line,Weekday,TN,,29th Av Stn,Nanaimo Stn,Outbound,64,54440.02872
+2023,Expo/Millennium Line,Weekday,TS,ED,22nd St Stn,Edmonds Stn,Inbound,10,48696.38717
+2023,Expo/Millennium Line,Weekday,TS,ED,22nd St Stn,Edmonds Stn,Outbound,10,46896.14021
+2023,Expo/Millennium Line,Saturday,BD,SA,Braid Stn,Sapperton Stn,Inbound,56,11060.29993
+2023,Expo/Millennium Line,Saturday,BD,SA,Braid Stn,Sapperton Stn,Outbound,56,11067.04939
+2023,Expo/Millennium Line,Saturday,BQ,LH,Burquitlam Stn,Lougheed Stn,Inbound,68,11095.01505
+2023,Expo/Millennium Line,Saturday,BQ,LH,Burquitlam Stn,Lougheed Stn,Outbound,68,10945.24472
+2023,Expo/Millennium Line,Saturday,BR,GM,Brentwood Stn,Gilmore Stn,Inbound,38,12201.61619
+2023,Expo/Millennium Line,Saturday,BR,GM,Brentwood Stn,Gilmore Stn,Outbound,38,11580.1886
+2023,Expo/Millennium Line,Saturday,BU,WF,Burrard Stn,Waterfront Stn - Expo/SeaBus,Inbound,23,11235.53953
+2023,Expo/Millennium Line,Saturday,BU,WF,Burrard Stn,Waterfront Stn - Expo/SeaBus,Outbound,23,13208.14112
+2023,Expo/Millennium Line,Saturday,BW,CM,Commercial-Broadway Stn,Commercial Drive Stn,Inbound,59,15343.22824
+2023,Expo/Millennium Line,Saturday,BW,CM,Commercial-Broadway Stn,Commercial Drive Stn,Outbound,59,17129.96147
+2023,Expo/Millennium Line,Saturday,BW,MN,Commercial-Broadway Stn,Main Street Stn,Inbound,60,50089.26017
+2023,Expo/Millennium Line,Saturday,BW,MN,Commercial-Broadway Stn,Main Street Stn,Outbound,60,47482.5941
+2023,Expo/Millennium Line,Saturday,CC,IC,Coquitlam Central Stn - Millennium,Inlet Centre Stn,Inbound,74,7590.837632
+2023,Expo/Millennium Line,Saturday,CC,IC,Coquitlam Central Stn - Millennium,Inlet Centre Stn,Outbound,74,7517.390505
+2023,Expo/Millennium Line,Saturday,CM,VC,Commercial Drive Stn,VCC-Clark Stn,Inbound,29,1125.190823
+2023,Expo/Millennium Line,Saturday,CM,VC,Commercial Drive Stn,VCC-Clark Stn,Outbound,29,1271.510806
+2023,Expo/Millennium Line,Saturday,CO,NW,Columbia Stn,New Westminster Stn,Inbound,14,34452.71773
+2023,Expo/Millennium Line,Saturday,CO,NW,Columbia Stn,New Westminster Stn,Outbound,14,32820.47728
+2023,Expo/Millennium Line,Saturday,ED,RO,Edmonds Stn,Royal Oak Stn,Inbound,8,40191.21181
+2023,Expo/Millennium Line,Saturday,ED,RO,Edmonds Stn,Royal Oak Stn,Outbound,8,37744.47115
+2023,Expo/Millennium Line,Saturday,GM,RU,Gilmore Stn,Rupert Stn,Inbound,36,12769.80711
+2023,Expo/Millennium Line,Saturday,GM,RU,Gilmore Stn,Rupert Stn,Outbound,36,11924.56133
+2023,Expo/Millennium Line,Saturday,GV,BU,Granville Stn,Burrard Stn,Inbound,26,22466.05237
+2023,Expo/Millennium Line,Saturday,GV,BU,Granville Stn,Burrard Stn,Outbound,26,23756.53341
+2023,Expo/Millennium Line,Saturday,GW,SR,Gateway Stn,Scott Road Stn,Inbound,19,23213.45561
+2023,Expo/Millennium Line,Saturday,GW,SR,Gateway Stn,Scott Road Stn,Outbound,19,22000.74798
+2023,Expo/Millennium Line,Saturday,HO,BR,Holdom Stn,Brentwood Stn,Inbound,40,11231.07777
+2023,Expo/Millennium Line,Saturday,HO,BR,Holdom Stn,Brentwood Stn,Outbound,40,10384.53684
+2023,Expo/Millennium Line,Saturday,IC,MC,Inlet Centre Stn,Moody Center Stn,Inbound,72,8466.786265
+2023,Expo/Millennium Line,Saturday,IC,MC,Inlet Centre Stn,Moody Center Stn,Outbound,72,8316.145966
+2023,Expo/Millennium Line,Saturday,JY,TN,Joyce Stn,29th Av Stn,Inbound,67,43761.01945
+2023,Expo/Millennium Line,Saturday,JY,TN,Joyce Stn,29th Av Stn,Outbound,67,42229.66268
+2023,Expo/Millennium Line,Saturday,KG,SC,King George Stn,Surrey Central Stn,Inbound,25,9546.013091
+2023,Expo/Millennium Line,Saturday,KG,SC,King George Stn,Surrey Central Stn,Outbound,25,4460.488596
+2023,Expo/Millennium Line,Saturday,LC,SP,Lake City Way Stn,Sperling Stn,Inbound,44,9940.770372
+2023,Expo/Millennium Line,Saturday,LC,SP,Lake City Way Stn,Sperling Stn,Outbound,44,9512.270587
+2023,Expo/Millennium Line,Saturday,LH,BD,Lougheed Stn,Braid Stn,Inbound,53,9613.94608
+2023,Expo/Millennium Line,Saturday,LH,BD,Lougheed Stn,Braid Stn,Outbound,53,9681.934196
+2023,Expo/Millennium Line,Saturday,LH,PW,Lougheed Stn,Production Way Stn,Inbound,50,10596.74825
+2023,Expo/Millennium Line,Saturday,LH,PW,Lougheed Stn,Production Way Stn,Outbound,50,10280.38642
+2023,Expo/Millennium Line,Saturday,LL,LN,Lafarge Lake/Douglas College Stn,Lincoln Stn,Inbound,78,1472.929572
+2023,Expo/Millennium Line,Saturday,LL,LN,Lafarge Lake/Douglas College Stn,Lincoln Stn,Outbound,78,1542.197018
+2023,Expo/Millennium Line,Saturday,LN,CC,Lincoln Stn,Coquitlam Central Stn - Millennium,Inbound,76,4287.670682
+2023,Expo/Millennium Line,Saturday,LN,CC,Lincoln Stn,Coquitlam Central Stn - Millennium,Outbound,76,4053.269657
+2023,Expo/Millennium Line,Saturday,MC,BQ,Moody Center Stn,Burquitlam Stn,Inbound,70,9452.322193
+2023,Expo/Millennium Line,Saturday,MC,BQ,Moody Center Stn,Burquitlam Stn,Outbound,70,9304.923588
+2023,Expo/Millennium Line,Saturday,MN,ST,Main Street Stn,Stadium Stn,Inbound,57,46945.42164
+2023,Expo/Millennium Line,Saturday,MN,ST,Main Street Stn,Stadium Stn,Outbound,57,44249.2987
+2023,Expo/Millennium Line,Saturday,MT,PT,Metrotown Stn,Patterson Stn,Inbound,4,43102.44508
+2023,Expo/Millennium Line,Saturday,MT,PT,Metrotown Stn,Patterson Stn,Outbound,4,41906.85233
+2023,Expo/Millennium Line,Saturday,,BW,Nanaimo Stn,Commercial-Broadway Stn,Inbound,62,44795.42443
+2023,Expo/Millennium Line,Saturday,,BW,Nanaimo Stn,Commercial-Broadway Stn,Outbound,62,42982.99759
+2023,Expo/Millennium Line,Saturday,NW,TS,New Westminster Stn,22nd St Stn,Inbound,12,36034.99012
+2023,Expo/Millennium Line,Saturday,NW,TS,New Westminster Stn,22nd St Stn,Outbound,12,34538.66917
+2023,Expo/Millennium Line,Saturday,PT,JY,Patterson Stn,Joyce Stn,Inbound,3,43668.0592
+2023,Expo/Millennium Line,Saturday,PT,JY,Patterson Stn,Joyce Stn,Outbound,3,42549.47417
+2023,Expo/Millennium Line,Saturday,PW,LC,Production Way Stn,Lake City Way Stn,Inbound,48,9869.527169
+2023,Expo/Millennium Line,Saturday,PW,LC,Production Way Stn,Lake City Way Stn,Outbound,48,9459.633961
+2023,Expo/Millennium Line,Saturday,RE,CM,Renfrew Stn,Commercial Drive Stn,Inbound,32,14162.24979
+2023,Expo/Millennium Line,Saturday,RE,CM,Renfrew Stn,Commercial Drive Stn,Outbound,32,12994.80455
+2023,Expo/Millennium Line,Saturday,RO,MT,Royal Oak Stn,Metrotown Stn,Inbound,6,41877.71168
+2023,Expo/Millennium Line,Saturday,RO,MT,Royal Oak Stn,Metrotown Stn,Outbound,6,39418.16365
+2023,Expo/Millennium Line,Saturday,RU,RE,Rupert Stn,Renfrew Stn,Inbound,34,13520.16013
+2023,Expo/Millennium Line,Saturday,RU,RE,Rupert Stn,Renfrew Stn,Outbound,34,12552.66269
+2023,Expo/Millennium Line,Saturday,SA,CO,Sapperton Stn,Columbia Stn,Inbound,16,12083.31969
+2023,Expo/Millennium Line,Saturday,SA,CO,Sapperton Stn,Columbia Stn,Outbound,16,11933.09178
+2023,Expo/Millennium Line,Saturday,SC,GW,Surrey Central Stn,Gateway Stn,Inbound,21,20119.18557
+2023,Expo/Millennium Line,Saturday,SC,GW,Surrey Central Stn,Gateway Stn,Outbound,21,19379.03771
+2023,Expo/Millennium Line,Saturday,SP,HO,Sperling Stn,Holdom Stn,Inbound,42,10328.79278
+2023,Expo/Millennium Line,Saturday,SP,HO,Sperling Stn,Holdom Stn,Outbound,42,9743.035663
+2023,Expo/Millennium Line,Saturday,SR,CO,Scott Road Stn,Columbia Stn,Inbound,17,27702.96354
+2023,Expo/Millennium Line,Saturday,SR,CO,Scott Road Stn,Columbia Stn,Outbound,17,26558.34027
+2023,Expo/Millennium Line,Saturday,ST,GV,Stadium Stn,Granville Stn,Inbound,46,38442.35565
+2023,Expo/Millennium Line,Saturday,ST,GV,Stadium Stn,Granville Stn,Outbound,46,37022.76074
+2023,Expo/Millennium Line,Saturday,TN,,29th Av Stn,Nanaimo Stn,Inbound,64,44316.95908
+2023,Expo/Millennium Line,Saturday,TN,,29th Av Stn,Nanaimo Stn,Outbound,64,42684.12402
+2023,Expo/Millennium Line,Saturday,TS,ED,22nd St Stn,Edmonds Stn,Inbound,10,37056.84503
+2023,Expo/Millennium Line,Saturday,TS,ED,22nd St Stn,Edmonds Stn,Outbound,10,34963.97837
+2023,Expo/Millennium Line,Sunday/Holiday,BD,SA,Braid Stn,Sapperton Stn,Inbound,56,8235.941049
+2023,Expo/Millennium Line,Sunday/Holiday,BD,SA,Braid Stn,Sapperton Stn,Outbound,56,8362.115592
+2023,Expo/Millennium Line,Sunday/Holiday,BQ,LH,Burquitlam Stn,Lougheed Stn,Inbound,68,7905.791261
+2023,Expo/Millennium Line,Sunday/Holiday,BQ,LH,Burquitlam Stn,Lougheed Stn,Outbound,68,8015.796475
+2023,Expo/Millennium Line,Sunday/Holiday,BR,GM,Brentwood Stn,Gilmore Stn,Inbound,38,8452.837633
+2023,Expo/Millennium Line,Sunday/Holiday,BR,GM,Brentwood Stn,Gilmore Stn,Outbound,38,8374.967231
+2023,Expo/Millennium Line,Sunday/Holiday,BU,WF,Burrard Stn,Waterfront Stn - Expo/SeaBus,Inbound,23,8748.687681
+2023,Expo/Millennium Line,Sunday/Holiday,BU,WF,Burrard Stn,Waterfront Stn - Expo/SeaBus,Outbound,23,10226.9659
+2023,Expo/Millennium Line,Sunday/Holiday,BW,CM,Commercial-Broadway Stn,Commercial Drive Stn,Inbound,59,11193.46216
+2023,Expo/Millennium Line,Sunday/Holiday,BW,CM,Commercial-Broadway Stn,Commercial Drive Stn,Outbound,59,12158.52651
+2023,Expo/Millennium Line,Sunday/Holiday,BW,MN,Commercial-Broadway Stn,Main Street Stn,Inbound,60,35689.72882
+2023,Expo/Millennium Line,Sunday/Holiday,BW,MN,Commercial-Broadway Stn,Main Street Stn,Outbound,60,35785.14348
+2023,Expo/Millennium Line,Sunday/Holiday,CC,IC,Coquitlam Central Stn - Millennium,Inlet Centre Stn,Inbound,74,5564.327713
+2023,Expo/Millennium Line,Sunday/Holiday,CC,IC,Coquitlam Central Stn - Millennium,Inlet Centre Stn,Outbound,74,5616.412184
+2023,Expo/Millennium Line,Sunday/Holiday,CM,VC,Commercial Drive Stn,VCC-Clark Stn,Inbound,29,807.0515765
+2023,Expo/Millennium Line,Sunday/Holiday,CM,VC,Commercial Drive Stn,VCC-Clark Stn,Outbound,29,887.3625641
+2023,Expo/Millennium Line,Sunday/Holiday,CO,NW,Columbia Stn,New Westminster Stn,Inbound,14,25570.78206
+2023,Expo/Millennium Line,Sunday/Holiday,CO,NW,Columbia Stn,New Westminster Stn,Outbound,14,24781.57015
+2023,Expo/Millennium Line,Sunday/Holiday,ED,RO,Edmonds Stn,Royal Oak Stn,Inbound,8,29536.34782
+2023,Expo/Millennium Line,Sunday/Holiday,ED,RO,Edmonds Stn,Royal Oak Stn,Outbound,8,28454.0641
+2023,Expo/Millennium Line,Sunday/Holiday,GM,RU,Gilmore Stn,Rupert Stn,Inbound,36,8791.793282
+2023,Expo/Millennium Line,Sunday/Holiday,GM,RU,Gilmore Stn,Rupert Stn,Outbound,36,8536.978521
+2023,Expo/Millennium Line,Sunday/Holiday,GV,BU,Granville Stn,Burrard Stn,Inbound,26,16918.24898
+2023,Expo/Millennium Line,Sunday/Holiday,GV,BU,Granville Stn,Burrard Stn,Outbound,26,18420.82569
+2023,Expo/Millennium Line,Sunday/Holiday,GW,SR,Gateway Stn,Scott Road Stn,Inbound,19,17760.51623
+2023,Expo/Millennium Line,Sunday/Holiday,GW,SR,Gateway Stn,Scott Road Stn,Outbound,19,17051.02307
+2023,Expo/Millennium Line,Sunday/Holiday,HO,BR,Holdom Stn,Brentwood Stn,Inbound,40,7747.330045
+2023,Expo/Millennium Line,Sunday/Holiday,HO,BR,Holdom Stn,Brentwood Stn,Outbound,40,7461.696537
+2023,Expo/Millennium Line,Sunday/Holiday,IC,MC,Inlet Centre Stn,Moody Center Stn,Inbound,72,6143.190335
+2023,Expo/Millennium Line,Sunday/Holiday,IC,MC,Inlet Centre Stn,Moody Center Stn,Outbound,72,6181.188795
+2023,Expo/Millennium Line,Sunday/Holiday,JY,TN,Joyce Stn,29th Av Stn,Inbound,67,32079.17365
+2023,Expo/Millennium Line,Sunday/Holiday,JY,TN,Joyce Stn,29th Av Stn,Outbound,67,32281.24199
+2023,Expo/Millennium Line,Sunday/Holiday,KG,SC,King George Stn,Surrey Central Stn,Inbound,25,7251.213297
+2023,Expo/Millennium Line,Sunday/Holiday,KG,SC,King George Stn,Surrey Central Stn,Outbound,25,3401.646952
+2023,Expo/Millennium Line,Sunday/Holiday,LC,SP,Lake City Way Stn,Sperling Stn,Inbound,44,6866.819671
+2023,Expo/Millennium Line,Sunday/Holiday,LC,SP,Lake City Way Stn,Sperling Stn,Outbound,44,6822.11511
+2023,Expo/Millennium Line,Sunday/Holiday,LH,BD,Lougheed Stn,Braid Stn,Inbound,53,7176.835328
+2023,Expo/Millennium Line,Sunday/Holiday,LH,BD,Lougheed Stn,Braid Stn,Outbound,53,7286.339192
+2023,Expo/Millennium Line,Sunday/Holiday,LH,PW,Lougheed Stn,Production Way Stn,Inbound,50,7485.425947
+2023,Expo/Millennium Line,Sunday/Holiday,LH,PW,Lougheed Stn,Production Way Stn,Outbound,50,7455.641012
+2023,Expo/Millennium Line,Sunday/Holiday,LL,LN,Lafarge Lake/Douglas College Stn,Lincoln Stn,Inbound,78,1105.519234
+2023,Expo/Millennium Line,Sunday/Holiday,LL,LN,Lafarge Lake/Douglas College Stn,Lincoln Stn,Outbound,78,1192.756169
+2023,Expo/Millennium Line,Sunday/Holiday,LN,CC,Lincoln Stn,Coquitlam Central Stn - Millennium,Inbound,76,3209.459394
+2023,Expo/Millennium Line,Sunday/Holiday,LN,CC,Lincoln Stn,Coquitlam Central Stn - Millennium,Outbound,76,3092.45733
+2023,Expo/Millennium Line,Sunday/Holiday,MC,BQ,Moody Center Stn,Burquitlam Stn,Inbound,70,6791.144706
+2023,Expo/Millennium Line,Sunday/Holiday,MC,BQ,Moody Center Stn,Burquitlam Stn,Outbound,70,6835.447211
+2023,Expo/Millennium Line,Sunday/Holiday,MN,ST,Main Street Stn,Stadium Stn,Inbound,57,33725.36395
+2023,Expo/Millennium Line,Sunday/Holiday,MN,ST,Main Street Stn,Stadium Stn,Outbound,57,33439.45576
+2023,Expo/Millennium Line,Sunday/Holiday,MT,PT,Metrotown Stn,Patterson Stn,Inbound,4,32124.7486
+2023,Expo/Millennium Line,Sunday/Holiday,MT,PT,Metrotown Stn,Patterson Stn,Outbound,4,32252.07495
+2023,Expo/Millennium Line,Sunday/Holiday,,BW,Nanaimo Stn,Commercial-Broadway Stn,Inbound,62,32548.01178
+2023,Expo/Millennium Line,Sunday/Holiday,,BW,Nanaimo Stn,Commercial-Broadway Stn,Outbound,62,32806.52304
+2023,Expo/Millennium Line,Sunday/Holiday,NW,TS,New Westminster Stn,22nd St Stn,Inbound,12,26597.19441
+2023,Expo/Millennium Line,Sunday/Holiday,NW,TS,New Westminster Stn,22nd St Stn,Outbound,12,26020.20558
+2023,Expo/Millennium Line,Sunday/Holiday,PT,JY,Patterson Stn,Joyce Stn,Inbound,3,32459.93628
+2023,Expo/Millennium Line,Sunday/Holiday,PT,JY,Patterson Stn,Joyce Stn,Outbound,3,32726.23769
+2023,Expo/Millennium Line,Sunday/Holiday,PW,LC,Production Way Stn,Lake City Way Stn,Inbound,48,6843.223707
+2023,Expo/Millennium Line,Sunday/Holiday,PW,LC,Production Way Stn,Lake City Way Stn,Outbound,48,6795.46598
+2023,Expo/Millennium Line,Sunday/Holiday,RE,CM,Renfrew Stn,Commercial Drive Stn,Inbound,32,9833.80748
+2023,Expo/Millennium Line,Sunday/Holiday,RE,CM,Renfrew Stn,Commercial Drive Stn,Outbound,32,9362.307822
+2023,Expo/Millennium Line,Sunday/Holiday,RO,MT,Royal Oak Stn,Metrotown Stn,Inbound,6,30831.11973
+2023,Expo/Millennium Line,Sunday/Holiday,RO,MT,Royal Oak Stn,Metrotown Stn,Outbound,6,29801.68364
+2023,Expo/Millennium Line,Sunday/Holiday,RU,RE,Rupert Stn,Renfrew Stn,Inbound,34,9404.7836
+2023,Expo/Millennium Line,Sunday/Holiday,RU,RE,Rupert Stn,Renfrew Stn,Outbound,34,9084.357404
+2023,Expo/Millennium Line,Sunday/Holiday,SA,CO,Sapperton Stn,Columbia Stn,Inbound,16,8957.064454
+2023,Expo/Millennium Line,Sunday/Holiday,SA,CO,Sapperton Stn,Columbia Stn,Outbound,16,8947.433178
+2023,Expo/Millennium Line,Sunday/Holiday,SC,GW,Surrey Central Stn,Gateway Stn,Inbound,21,15419.65562
+2023,Expo/Millennium Line,Sunday/Holiday,SC,GW,Surrey Central Stn,Gateway Stn,Outbound,21,15021.9844
+2023,Expo/Millennium Line,Sunday/Holiday,SP,HO,Sperling Stn,Holdom Stn,Inbound,42,7117.026347
+2023,Expo/Millennium Line,Sunday/Holiday,SP,HO,Sperling Stn,Holdom Stn,Outbound,42,6978.28477
+2023,Expo/Millennium Line,Sunday/Holiday,SR,CO,Scott Road Stn,Columbia Stn,Inbound,17,20922.99979
+2023,Expo/Millennium Line,Sunday/Holiday,SR,CO,Scott Road Stn,Columbia Stn,Outbound,17,20418.85392
+2023,Expo/Millennium Line,Sunday/Holiday,ST,GV,Stadium Stn,Granville Stn,Inbound,46,28895.34995
+2023,Expo/Millennium Line,Sunday/Holiday,ST,GV,Stadium Stn,Granville Stn,Outbound,46,28762.25349
+2023,Expo/Millennium Line,Sunday/Holiday,TN,,29th Av Stn,Nanaimo Stn,Inbound,64,32320.47361
+2023,Expo/Millennium Line,Sunday/Holiday,TN,,29th Av Stn,Nanaimo Stn,Outbound,64,32584.43733
+2023,Expo/Millennium Line,Sunday/Holiday,TS,ED,22nd St Stn,Edmonds Stn,Inbound,10,27244.19713
+2023,Expo/Millennium Line,Sunday/Holiday,TS,ED,22nd St Stn,Edmonds Stn,Outbound,10,26342.64282
+2024,Canada Line,Weekday,AB,BP,Aberdeen Stn,Bridgeport Stn,Inbound,89,16283.17439
+2024,Canada Line,Weekday,AB,BP,Aberdeen Stn,Bridgeport Stn,Outbound,89,15992.22339
+2024,Canada Line,Weekday,AB,CP,Aberdeen Stn,Capstan Stn,Inbound,215,13707.91914
+2024,Canada Line,Weekday,AB,CP,Aberdeen Stn,Capstan Stn,Outbound,215,13471.13949
+2024,Canada Line,Weekday,BC,OV,Broadway-City Hall Stn,Olympic Village Stn,Inbound,83,32905.01106
+2024,Canada Line,Weekday,BC,OV,Broadway-City Hall Stn,Olympic Village Stn,Outbound,83,31984.74222
+2024,Canada Line,Weekday,BP,MD,Bridgeport Stn,Marine Drive Stn,Inbound,88,28210.73162
+2024,Canada Line,Weekday,BP,MD,Bridgeport Stn,Marine Drive Stn,Outbound,88,28251.5342
+2024,Canada Line,Weekday,CP,BP,Capstan Stn,Bridgeport Stn,Inbound,216,14107.14674
+2024,Canada Line,Weekday,CP,BP,Capstan Stn,Bridgeport Stn,Outbound,216,13879.26595
+2024,Canada Line,Weekday,KE,BC,King Edward Stn,Broadway-City Hall Stn,Inbound,84,34597.27109
+2024,Canada Line,Weekday,KE,BC,King Edward Stn,Broadway-City Hall Stn,Outbound,84,33800.39267
+2024,Canada Line,Weekday,LA,AB,Lansdowne Stn,Aberdeen Stn,Inbound,90,14281.58144
+2024,Canada Line,Weekday,LA,AB,Lansdowne Stn,Aberdeen Stn,Outbound,90,13762.16377
+2024,Canada Line,Weekday,LG,OR,Langara-49th Stn,Oakridge-41st Stn,Inbound,86,33279.81676
+2024,Canada Line,Weekday,LG,OR,Langara-49th Stn,Oakridge-41st Stn,Outbound,86,32890.09182
+2024,Canada Line,Weekday,MD,LG,Marine Drive Stn,Langara-49th Stn,Inbound,87,31781.01761
+2024,Canada Line,Weekday,MD,LG,Marine Drive Stn,Langara-49th Stn,Outbound,87,31719.29671
+2024,Canada Line,Weekday,OR,KE,Oakridge-41st Stn,King Edward Stn,Inbound,85,33274.06758
+2024,Canada Line,Weekday,OR,KE,Oakridge-41st Stn,King Edward Stn,Outbound,85,32553.11752
+2024,Canada Line,Weekday,OV,YT,Olympic Village Stn,Yaletown-Roundhouse Stn,Inbound,82,33168.03879
+2024,Canada Line,Weekday,OV,YT,Olympic Village Stn,Yaletown-Roundhouse Stn,Outbound,82,31826.46243
+2024,Canada Line,Weekday,RB,LA,Brighouse Stn,Lansdowne Stn,Inbound,91,10667.79728
+2024,Canada Line,Weekday,RB,LA,Brighouse Stn,Lansdowne Stn,Outbound,91,10045.17661
+2024,Canada Line,Weekday,SI,TE,Sea Island Stn,Templeton Stn,Inbound,93,7931.766398
+2024,Canada Line,Weekday,SI,TE,Sea Island Stn,Templeton Stn,Outbound,93,7794.843253
+2024,Canada Line,Weekday,TE,BP,Templeton Stn,Bridgeport Stn,Inbound,92,7781.554728
+2024,Canada Line,Weekday,TE,BP,Templeton Stn,Bridgeport Stn,Outbound,92,7920.521054
+2024,Canada Line,Weekday,VA,WC,Vancouver City Centre Stn,Waterfront Stn - CL,Inbound,80,14331.34467
+2024,Canada Line,Weekday,VA,WC,Vancouver City Centre Stn,Waterfront Stn - CL,Outbound,80,13609.1615
+2024,Canada Line,Weekday,YA,SI,YVR-Airport Stn,Sea Island Stn,Inbound,94,7700.043579
+2024,Canada Line,Weekday,YA,SI,YVR-Airport Stn,Sea Island Stn,Outbound,94,7423.686008
+2024,Canada Line,Weekday,YT,VA,Yaletown-Roundhouse Stn,Vancouver City Centre Stn,Inbound,81,28704.4578
+2024,Canada Line,Weekday,YT,VA,Yaletown-Roundhouse Stn,Vancouver City Centre Stn,Outbound,81,27096.26093
+2024,Canada Line,Saturday,AB,BP,Aberdeen Stn,Bridgeport Stn,Inbound,89,13852.38829
+2024,Canada Line,Saturday,AB,BP,Aberdeen Stn,Bridgeport Stn,Outbound,89,13597.66198
+2024,Canada Line,Saturday,AB,CP,Aberdeen Stn,Capstan Stn,Inbound,215,12997.58019
+2024,Canada Line,Saturday,AB,CP,Aberdeen Stn,Capstan Stn,Outbound,215,12765.68619
+2024,Canada Line,Saturday,BC,OV,Broadway-City Hall Stn,Olympic Village Stn,Inbound,83,26157.48317
+2024,Canada Line,Saturday,BC,OV,Broadway-City Hall Stn,Olympic Village Stn,Outbound,83,24921.16802
+2024,Canada Line,Saturday,BP,MD,Bridgeport Stn,Marine Drive Stn,Inbound,88,24072.09504
+2024,Canada Line,Saturday,BP,MD,Bridgeport Stn,Marine Drive Stn,Outbound,88,23867.80063
+2024,Canada Line,Saturday,CP,BP,Capstan Stn,Bridgeport Stn,Inbound,216,13387.55994
+2024,Canada Line,Saturday,CP,BP,Capstan Stn,Bridgeport Stn,Outbound,216,13165.61173
+2024,Canada Line,Saturday,KE,BC,King Edward Stn,Broadway-City Hall Stn,Inbound,84,27351.19452
+2024,Canada Line,Saturday,KE,BC,King Edward Stn,Broadway-City Hall Stn,Outbound,84,26113.21397
+2024,Canada Line,Saturday,LA,AB,Lansdowne Stn,Aberdeen Stn,Inbound,90,11792.30532
+2024,Canada Line,Saturday,LA,AB,Lansdowne Stn,Aberdeen Stn,Outbound,90,11403.05884
+2024,Canada Line,Saturday,LG,OR,Langara-49th Stn,Oakridge-41st Stn,Inbound,86,26641.20909
+2024,Canada Line,Saturday,LG,OR,Langara-49th Stn,Oakridge-41st Stn,Outbound,86,25811.66992
+2024,Canada Line,Saturday,MD,LG,Marine Drive Stn,Langara-49th Stn,Inbound,87,25901.76068
+2024,Canada Line,Saturday,MD,LG,Marine Drive Stn,Langara-49th Stn,Outbound,87,25423.00777
+2024,Canada Line,Saturday,OR,KE,Oakridge-41st Stn,King Edward Stn,Inbound,85,26469.75315
+2024,Canada Line,Saturday,OR,KE,Oakridge-41st Stn,King Edward Stn,Outbound,85,25337.83816
+2024,Canada Line,Saturday,OV,YT,Olympic Village Stn,Yaletown-Roundhouse Stn,Inbound,82,26187.72125
+2024,Canada Line,Saturday,OV,YT,Olympic Village Stn,Yaletown-Roundhouse Stn,Outbound,82,24732.45165
+2024,Canada Line,Saturday,RB,LA,Brighouse Stn,Lansdowne Stn,Inbound,91,8659.270761
+2024,Canada Line,Saturday,RB,LA,Brighouse Stn,Lansdowne Stn,Outbound,91,8257.190399
+2024,Canada Line,Saturday,SI,TE,Sea Island Stn,Templeton Stn,Inbound,93,7069.371144
+2024,Canada Line,Saturday,SI,TE,Sea Island Stn,Templeton Stn,Outbound,93,6775.969947
+2024,Canada Line,Saturday,TE,BP,Templeton Stn,Bridgeport Stn,Inbound,92,7797.187909
+2024,Canada Line,Saturday,TE,BP,Templeton Stn,Bridgeport Stn,Outbound,92,7747.522422
+2024,Canada Line,Saturday,VA,WC,Vancouver City Centre Stn,Waterfront Stn - CL,Inbound,80,10613.48634
+2024,Canada Line,Saturday,VA,WC,Vancouver City Centre Stn,Waterfront Stn - CL,Outbound,80,9853.564234
+2024,Canada Line,Saturday,YA,SI,YVR-Airport Stn,Sea Island Stn,Inbound,94,7052.771509
+2024,Canada Line,Saturday,YA,SI,YVR-Airport Stn,Sea Island Stn,Outbound,94,6667.160268
+2024,Canada Line,Saturday,YT,VA,Yaletown-Roundhouse Stn,Vancouver City Centre Stn,Inbound,81,22098.52326
+2024,Canada Line,Saturday,YT,VA,Yaletown-Roundhouse Stn,Vancouver City Centre Stn,Outbound,81,20770.00477
+2024,Canada Line,Sunday/Holiday,AB,BP,Aberdeen Stn,Bridgeport Stn,Inbound,89,11188.92461
+2024,Canada Line,Sunday/Holiday,AB,BP,Aberdeen Stn,Bridgeport Stn,Outbound,89,11022.67712
+2024,Canada Line,Sunday/Holiday,AB,CP,Aberdeen Stn,Capstan Stn,Inbound,215,10267.19846
+2024,Canada Line,Sunday/Holiday,AB,CP,Aberdeen Stn,Capstan Stn,Outbound,215,10205.16812
+2024,Canada Line,Sunday/Holiday,BC,OV,Broadway-City Hall Stn,Olympic Village Stn,Inbound,83,20996.24439
+2024,Canada Line,Sunday/Holiday,BC,OV,Broadway-City Hall Stn,Olympic Village Stn,Outbound,83,20739.54196
+2024,Canada Line,Sunday/Holiday,BP,MD,Bridgeport Stn,Marine Drive Stn,Inbound,88,20658.53116
+2024,Canada Line,Sunday/Holiday,BP,MD,Bridgeport Stn,Marine Drive Stn,Outbound,88,20118.89709
+2024,Canada Line,Sunday/Holiday,CP,BP,Capstan Stn,Bridgeport Stn,Inbound,216,10592.26883
+2024,Canada Line,Sunday/Holiday,CP,BP,Capstan Stn,Bridgeport Stn,Outbound,216,10586.24901
+2024,Canada Line,Sunday/Holiday,KE,BC,King Edward Stn,Broadway-City Hall Stn,Inbound,84,22332.61389
+2024,Canada Line,Sunday/Holiday,KE,BC,King Edward Stn,Broadway-City Hall Stn,Outbound,84,21831.79852
+2024,Canada Line,Sunday/Holiday,LA,AB,Lansdowne Stn,Aberdeen Stn,Inbound,90,9457.901964
+2024,Canada Line,Sunday/Holiday,LA,AB,Lansdowne Stn,Aberdeen Stn,Outbound,90,9190.735911
+2024,Canada Line,Sunday/Holiday,LG,OR,Langara-49th Stn,Oakridge-41st Stn,Inbound,86,22286.78923
+2024,Canada Line,Sunday/Holiday,LG,OR,Langara-49th Stn,Oakridge-41st Stn,Outbound,86,21585.48989
+2024,Canada Line,Sunday/Holiday,MD,LG,Marine Drive Stn,Langara-49th Stn,Inbound,87,21904.28939
+2024,Canada Line,Sunday/Holiday,MD,LG,Marine Drive Stn,Langara-49th Stn,Outbound,87,21304.86335
+2024,Canada Line,Sunday/Holiday,OR,KE,Oakridge-41st Stn,King Edward Stn,Inbound,85,21900.97358
+2024,Canada Line,Sunday/Holiday,OR,KE,Oakridge-41st Stn,King Edward Stn,Outbound,85,21189.58965
+2024,Canada Line,Sunday/Holiday,OV,YT,Olympic Village Stn,Yaletown-Roundhouse Stn,Inbound,82,20978.99969
+2024,Canada Line,Sunday/Holiday,OV,YT,Olympic Village Stn,Yaletown-Roundhouse Stn,Outbound,82,20541.9109
+2024,Canada Line,Sunday/Holiday,RB,LA,Brighouse Stn,Lansdowne Stn,Inbound,91,7076.371066
+2024,Canada Line,Sunday/Holiday,RB,LA,Brighouse Stn,Lansdowne Stn,Outbound,91,6781.69342
+2024,Canada Line,Sunday/Holiday,SI,TE,Sea Island Stn,Templeton Stn,Inbound,93,7286.567348
+2024,Canada Line,Sunday/Holiday,SI,TE,Sea Island Stn,Templeton Stn,Outbound,93,6516.944076
+2024,Canada Line,Sunday/Holiday,TE,BP,Templeton Stn,Bridgeport Stn,Inbound,92,7966.070461
+2024,Canada Line,Sunday/Holiday,TE,BP,Templeton Stn,Bridgeport Stn,Outbound,92,7518.387243
+2024,Canada Line,Sunday/Holiday,VA,WC,Vancouver City Centre Stn,Waterfront Stn - CL,Inbound,80,8600.324406
+2024,Canada Line,Sunday/Holiday,VA,WC,Vancouver City Centre Stn,Waterfront Stn - CL,Outbound,80,8195.726474
+2024,Canada Line,Sunday/Holiday,YA,SI,YVR-Airport Stn,Sea Island Stn,Inbound,94,7353.950527
+2024,Canada Line,Sunday/Holiday,YA,SI,YVR-Airport Stn,Sea Island Stn,Outbound,94,6459.387804
+2024,Canada Line,Sunday/Holiday,YT,VA,Yaletown-Roundhouse Stn,Vancouver City Centre Stn,Inbound,81,17876.01413
+2024,Canada Line,Sunday/Holiday,YT,VA,Yaletown-Roundhouse Stn,Vancouver City Centre Stn,Outbound,81,17271.47756
+2024,Expo/Millennium Line,Weekday,BD,SA,Braid Stn,Sapperton Stn,Inbound,56,16435.59195
+2024,Expo/Millennium Line,Weekday,BD,SA,Braid Stn,Sapperton Stn,Outbound,56,16440.47308
+2024,Expo/Millennium Line,Weekday,BQ,LH,Burquitlam Stn,Lougheed Stn,Inbound,68,14367.5235
+2024,Expo/Millennium Line,Weekday,BQ,LH,Burquitlam Stn,Lougheed Stn,Outbound,68,14185.08716
+2024,Expo/Millennium Line,Weekday,BR,GM,Brentwood Stn,Gilmore Stn,Inbound,38,17475.7397
+2024,Expo/Millennium Line,Weekday,BR,GM,Brentwood Stn,Gilmore Stn,Outbound,38,17107.16817
+2024,Expo/Millennium Line,Weekday,BU,WF,Burrard Stn,Waterfront Stn - Expo/SeaBus,Inbound,23,14122.3913
+2024,Expo/Millennium Line,Weekday,BU,WF,Burrard Stn,Waterfront Stn - Expo/SeaBus,Outbound,23,17385.23309
+2024,Expo/Millennium Line,Weekday,BW,CM,Commercial-Broadway Stn,Commercial Drive Stn,Inbound,59,19600.44968
+2024,Expo/Millennium Line,Weekday,BW,CM,Commercial-Broadway Stn,Commercial Drive Stn,Outbound,59,21019.88874
+2024,Expo/Millennium Line,Weekday,BW,MN,Commercial-Broadway Stn,Main Street Stn,Inbound,60,64000.17977
+2024,Expo/Millennium Line,Weekday,BW,MN,Commercial-Broadway Stn,Main Street Stn,Outbound,60,63678.31332
+2024,Expo/Millennium Line,Weekday,CC,IC,Coquitlam Central Stn - Millennium,Inlet Centre Stn,Inbound,74,9830.49315
+2024,Expo/Millennium Line,Weekday,CC,IC,Coquitlam Central Stn - Millennium,Inlet Centre Stn,Outbound,74,9789.54225
+2024,Expo/Millennium Line,Weekday,CM,VC,Commercial Drive Stn,VCC-Clark Stn,Inbound,29,2593.814902
+2024,Expo/Millennium Line,Weekday,CM,VC,Commercial Drive Stn,VCC-Clark Stn,Outbound,29,2944.527779
+2024,Expo/Millennium Line,Weekday,CO,NW,Columbia Stn,New Westminster Stn,Inbound,14,51242.75178
+2024,Expo/Millennium Line,Weekday,CO,NW,Columbia Stn,New Westminster Stn,Outbound,14,48954.10311
+2024,Expo/Millennium Line,Weekday,ED,RO,Edmonds Stn,Royal Oak Stn,Inbound,8,56694.34699
+2024,Expo/Millennium Line,Weekday,ED,RO,Edmonds Stn,Royal Oak Stn,Outbound,8,54402.04022
+2024,Expo/Millennium Line,Weekday,GM,RU,Gilmore Stn,Rupert Stn,Inbound,36,18164.28984
+2024,Expo/Millennium Line,Weekday,GM,RU,Gilmore Stn,Rupert Stn,Outbound,36,17455.36326
+2024,Expo/Millennium Line,Weekday,GV,BU,Granville Stn,Burrard Stn,Inbound,26,30935.89916
+2024,Expo/Millennium Line,Weekday,GV,BU,Granville Stn,Burrard Stn,Outbound,26,33898.65013
+2024,Expo/Millennium Line,Weekday,GW,SR,Gateway Stn,Scott Road Stn,Inbound,19,35302.55309
+2024,Expo/Millennium Line,Weekday,GW,SR,Gateway Stn,Scott Road Stn,Outbound,19,33491.70711
+2024,Expo/Millennium Line,Weekday,HO,BR,Holdom Stn,Brentwood Stn,Inbound,40,16586.24754
+2024,Expo/Millennium Line,Weekday,HO,BR,Holdom Stn,Brentwood Stn,Outbound,40,15821.74849
+2024,Expo/Millennium Line,Weekday,IC,MC,Inlet Centre Stn,Moody Center Stn,Inbound,72,11123.72139
+2024,Expo/Millennium Line,Weekday,IC,MC,Inlet Centre Stn,Moody Center Stn,Outbound,72,11069.96254
+2024,Expo/Millennium Line,Weekday,JY,TN,Joyce Stn,29th Av Stn,Inbound,67,57529.88438
+2024,Expo/Millennium Line,Weekday,JY,TN,Joyce Stn,29th Av Stn,Outbound,67,57557.89741
+2024,Expo/Millennium Line,Weekday,KG,SC,King George Stn,Surrey Central Stn,Inbound,25,13536.5036
+2024,Expo/Millennium Line,Weekday,KG,SC,King George Stn,Surrey Central Stn,Outbound,25,6950.164634
+2024,Expo/Millennium Line,Weekday,LC,SP,Lake City Way Stn,Sperling Stn,Inbound,44,14956.23787
+2024,Expo/Millennium Line,Weekday,LC,SP,Lake City Way Stn,Sperling Stn,Outbound,44,14671.15665
+2024,Expo/Millennium Line,Weekday,LH,BD,Lougheed Stn,Braid Stn,Inbound,53,13897.67286
+2024,Expo/Millennium Line,Weekday,LH,BD,Lougheed Stn,Braid Stn,Outbound,53,13801.83954
+2024,Expo/Millennium Line,Weekday,LH,PW,Lougheed Stn,Production Way Stn,Inbound,50,16614.93266
+2024,Expo/Millennium Line,Weekday,LH,PW,Lougheed Stn,Production Way Stn,Outbound,50,16363.18711
+2024,Expo/Millennium Line,Weekday,LL,LN,Lafarge Lake/Douglas College Stn,Lincoln Stn,Inbound,78,2334.773239
+2024,Expo/Millennium Line,Weekday,LL,LN,Lafarge Lake/Douglas College Stn,Lincoln Stn,Outbound,78,2331.943704
+2024,Expo/Millennium Line,Weekday,LN,CC,Lincoln Stn,Coquitlam Central Stn - Millennium,Inbound,76,5751.837914
+2024,Expo/Millennium Line,Weekday,LN,CC,Lincoln Stn,Coquitlam Central Stn - Millennium,Outbound,76,5497.734037
+2024,Expo/Millennium Line,Weekday,MC,BQ,Moody Center Stn,Burquitlam Stn,Inbound,70,12228.73001
+2024,Expo/Millennium Line,Weekday,MC,BQ,Moody Center Stn,Burquitlam Stn,Outbound,70,11942.37828
+2024,Expo/Millennium Line,Weekday,MN,ST,Main Street Stn,Stadium Stn,Inbound,57,60237.66841
+2024,Expo/Millennium Line,Weekday,MN,ST,Main Street Stn,Stadium Stn,Outbound,57,59640.94217
+2024,Expo/Millennium Line,Weekday,MT,PT,Metrotown Stn,Patterson Stn,Inbound,4,56604.92069
+2024,Expo/Millennium Line,Weekday,MT,PT,Metrotown Stn,Patterson Stn,Outbound,4,56348.62741
+2024,Expo/Millennium Line,Weekday,,BW,Nanaimo Stn,Commercial-Broadway Stn,Inbound,62,59570.03483
+2024,Expo/Millennium Line,Weekday,,BW,Nanaimo Stn,Commercial-Broadway Stn,Outbound,62,59616.07976
+2024,Expo/Millennium Line,Weekday,NW,TS,New Westminster Stn,22nd St Stn,Inbound,12,52129.56337
+2024,Expo/Millennium Line,Weekday,NW,TS,New Westminster Stn,22nd St Stn,Outbound,12,50374.67154
+2024,Expo/Millennium Line,Weekday,PT,JY,Patterson Stn,Joyce Stn,Inbound,3,56942.58648
+2024,Expo/Millennium Line,Weekday,PT,JY,Patterson Stn,Joyce Stn,Outbound,3,56782.03745
+2024,Expo/Millennium Line,Weekday,PW,LC,Production Way Stn,Lake City Way Stn,Inbound,48,14861.7771
+2024,Expo/Millennium Line,Weekday,PW,LC,Production Way Stn,Lake City Way Stn,Outbound,48,14539.22877
+2024,Expo/Millennium Line,Weekday,RE,CM,Renfrew Stn,Commercial Drive Stn,Inbound,32,20372.73886
+2024,Expo/Millennium Line,Weekday,RE,CM,Renfrew Stn,Commercial Drive Stn,Outbound,32,19404.74929
+2024,Expo/Millennium Line,Weekday,RO,MT,Royal Oak Stn,Metrotown Stn,Inbound,6,58708.92477
+2024,Expo/Millennium Line,Weekday,RO,MT,Royal Oak Stn,Metrotown Stn,Outbound,6,56343.89555
+2024,Expo/Millennium Line,Weekday,RU,RE,Rupert Stn,Renfrew Stn,Inbound,34,19040.49291
+2024,Expo/Millennium Line,Weekday,RU,RE,Rupert Stn,Renfrew Stn,Outbound,34,18236.57994
+2024,Expo/Millennium Line,Weekday,SA,CO,Sapperton Stn,Columbia Stn,Inbound,16,18269.36914
+2024,Expo/Millennium Line,Weekday,SA,CO,Sapperton Stn,Columbia Stn,Outbound,16,18069.69035
+2024,Expo/Millennium Line,Weekday,SC,GW,Surrey Central Stn,Gateway Stn,Inbound,21,30466.97059
+2024,Expo/Millennium Line,Weekday,SC,GW,Surrey Central Stn,Gateway Stn,Outbound,21,29458.39731
+2024,Expo/Millennium Line,Weekday,SP,HO,Sperling Stn,Holdom Stn,Inbound,42,15457.06964
+2024,Expo/Millennium Line,Weekday,SP,HO,Sperling Stn,Holdom Stn,Outbound,42,14998.04609
+2024,Expo/Millennium Line,Weekday,SR,CO,Scott Road Stn,Columbia Stn,Inbound,17,42342.11889
+2024,Expo/Millennium Line,Weekday,SR,CO,Scott Road Stn,Columbia Stn,Outbound,17,40850.50942
+2024,Expo/Millennium Line,Weekday,ST,GV,Stadium Stn,Granville Stn,Inbound,46,51260.23246
+2024,Expo/Millennium Line,Weekday,ST,GV,Stadium Stn,Granville Stn,Outbound,46,51044.72019
+2024,Expo/Millennium Line,Weekday,TN,,29th Av Stn,Nanaimo Stn,Inbound,64,58641.17397
+2024,Expo/Millennium Line,Weekday,TN,,29th Av Stn,Nanaimo Stn,Outbound,64,58705.7917
+2024,Expo/Millennium Line,Weekday,TS,ED,22nd St Stn,Edmonds Stn,Inbound,10,52976.5947
+2024,Expo/Millennium Line,Weekday,TS,ED,22nd St Stn,Edmonds Stn,Outbound,10,50976.74578
+2024,Expo/Millennium Line,Saturday,BD,SA,Braid Stn,Sapperton Stn,Inbound,56,11248.22634
+2024,Expo/Millennium Line,Saturday,BD,SA,Braid Stn,Sapperton Stn,Outbound,56,11118.87499
+2024,Expo/Millennium Line,Saturday,BQ,LH,Burquitlam Stn,Lougheed Stn,Inbound,68,11342.18159
+2024,Expo/Millennium Line,Saturday,BQ,LH,Burquitlam Stn,Lougheed Stn,Outbound,68,11145.15453
+2024,Expo/Millennium Line,Saturday,BR,GM,Brentwood Stn,Gilmore Stn,Inbound,38,12630.44481
+2024,Expo/Millennium Line,Saturday,BR,GM,Brentwood Stn,Gilmore Stn,Outbound,38,12060.03501
+2024,Expo/Millennium Line,Saturday,BU,WF,Burrard Stn,Waterfront Stn - Expo/SeaBus,Inbound,23,11531.54322
+2024,Expo/Millennium Line,Saturday,BU,WF,Burrard Stn,Waterfront Stn - Expo/SeaBus,Outbound,23,13756.41995
+2024,Expo/Millennium Line,Saturday,BW,CM,Commercial-Broadway Stn,Commercial Drive Stn,Inbound,59,13769.76407
+2024,Expo/Millennium Line,Saturday,BW,CM,Commercial-Broadway Stn,Commercial Drive Stn,Outbound,59,16493.55028
+2024,Expo/Millennium Line,Saturday,BW,MN,Commercial-Broadway Stn,Main Street Stn,Inbound,60,52200.29047
+2024,Expo/Millennium Line,Saturday,BW,MN,Commercial-Broadway Stn,Main Street Stn,Outbound,60,49591.11618
+2024,Expo/Millennium Line,Saturday,CC,IC,Coquitlam Central Stn - Millennium,Inlet Centre Stn,Inbound,74,7698.314776
+2024,Expo/Millennium Line,Saturday,CC,IC,Coquitlam Central Stn - Millennium,Inlet Centre Stn,Outbound,74,7559.323079
+2024,Expo/Millennium Line,Saturday,CM,VC,Commercial Drive Stn,VCC-Clark Stn,Inbound,29,1166.791496
+2024,Expo/Millennium Line,Saturday,CM,VC,Commercial Drive Stn,VCC-Clark Stn,Outbound,29,1370.034715
+2024,Expo/Millennium Line,Saturday,CO,NW,Columbia Stn,New Westminster Stn,Inbound,14,37047.48512
+2024,Expo/Millennium Line,Saturday,CO,NW,Columbia Stn,New Westminster Stn,Outbound,14,35252.76543
+2024,Expo/Millennium Line,Saturday,ED,RO,Edmonds Stn,Royal Oak Stn,Inbound,8,42635.98348
+2024,Expo/Millennium Line,Saturday,ED,RO,Edmonds Stn,Royal Oak Stn,Outbound,8,40137.22138
+2024,Expo/Millennium Line,Saturday,GM,RU,Gilmore Stn,Rupert Stn,Inbound,36,13197.68465
+2024,Expo/Millennium Line,Saturday,GM,RU,Gilmore Stn,Rupert Stn,Outbound,36,12325.56172
+2024,Expo/Millennium Line,Saturday,GV,BU,Granville Stn,Burrard Stn,Inbound,26,22728.91386
+2024,Expo/Millennium Line,Saturday,GV,BU,Granville Stn,Burrard Stn,Outbound,26,24441.13981
+2024,Expo/Millennium Line,Saturday,GW,SR,Gateway Stn,Scott Road Stn,Inbound,19,25193.81454
+2024,Expo/Millennium Line,Saturday,GW,SR,Gateway Stn,Scott Road Stn,Outbound,19,24056.13482
+2024,Expo/Millennium Line,Saturday,HO,BR,Holdom Stn,Brentwood Stn,Inbound,40,11589.47447
+2024,Expo/Millennium Line,Saturday,HO,BR,Holdom Stn,Brentwood Stn,Outbound,40,10762.8133
+2024,Expo/Millennium Line,Saturday,IC,MC,Inlet Centre Stn,Moody Center Stn,Inbound,72,8625.677295
+2024,Expo/Millennium Line,Saturday,IC,MC,Inlet Centre Stn,Moody Center Stn,Outbound,72,8416.236876
+2024,Expo/Millennium Line,Saturday,JY,TN,Joyce Stn,29th Av Stn,Inbound,67,45803.16486
+2024,Expo/Millennium Line,Saturday,JY,TN,Joyce Stn,29th Av Stn,Outbound,67,44410.93706
+2024,Expo/Millennium Line,Saturday,KG,SC,King George Stn,Surrey Central Stn,Inbound,25,8917.182803
+2024,Expo/Millennium Line,Saturday,KG,SC,King George Stn,Surrey Central Stn,Outbound,25,4326.511369
+2024,Expo/Millennium Line,Saturday,LC,SP,Lake City Way Stn,Sperling Stn,Inbound,44,10312.01289
+2024,Expo/Millennium Line,Saturday,LC,SP,Lake City Way Stn,Sperling Stn,Outbound,44,9934.01887
+2024,Expo/Millennium Line,Saturday,LH,BD,Lougheed Stn,Braid Stn,Inbound,53,9588.33721
+2024,Expo/Millennium Line,Saturday,LH,BD,Lougheed Stn,Braid Stn,Outbound,53,9444.170962
+2024,Expo/Millennium Line,Saturday,LH,PW,Lougheed Stn,Production Way Stn,Inbound,50,10919.84982
+2024,Expo/Millennium Line,Saturday,LH,PW,Lougheed Stn,Production Way Stn,Outbound,50,10651.03791
+2024,Expo/Millennium Line,Saturday,LL,LN,Lafarge Lake/Douglas College Stn,Lincoln Stn,Inbound,78,1484.185306
+2024,Expo/Millennium Line,Saturday,LL,LN,Lafarge Lake/Douglas College Stn,Lincoln Stn,Outbound,78,1502.172462
+2024,Expo/Millennium Line,Saturday,LN,CC,Lincoln Stn,Coquitlam Central Stn - Millennium,Inbound,76,4289.577545
+2024,Expo/Millennium Line,Saturday,LN,CC,Lincoln Stn,Coquitlam Central Stn - Millennium,Outbound,76,4047.215075
+2024,Expo/Millennium Line,Saturday,MC,BQ,Moody Center Stn,Burquitlam Stn,Inbound,70,9639.345572
+2024,Expo/Millennium Line,Saturday,MC,BQ,Moody Center Stn,Burquitlam Stn,Outbound,70,9431.857627
+2024,Expo/Millennium Line,Saturday,MN,ST,Main Street Stn,Stadium Stn,Inbound,57,48939.08484
+2024,Expo/Millennium Line,Saturday,MN,ST,Main Street Stn,Stadium Stn,Outbound,57,46277.82762
+2024,Expo/Millennium Line,Saturday,MT,PT,Metrotown Stn,Patterson Stn,Inbound,4,45269.20888
+2024,Expo/Millennium Line,Saturday,MT,PT,Metrotown Stn,Patterson Stn,Outbound,4,44116.97818
+2024,Expo/Millennium Line,Saturday,,BW,Nanaimo Stn,Commercial-Broadway Stn,Inbound,62,46875.25899
+2024,Expo/Millennium Line,Saturday,,BW,Nanaimo Stn,Commercial-Broadway Stn,Outbound,62,45206.51713
+2024,Expo/Millennium Line,Saturday,NW,TS,New Westminster Stn,22nd St Stn,Inbound,12,38583.81896
+2024,Expo/Millennium Line,Saturday,NW,TS,New Westminster Stn,22nd St Stn,Outbound,12,36985.02504
+2024,Expo/Millennium Line,Saturday,PT,JY,Patterson Stn,Joyce Stn,Inbound,3,45761.30465
+2024,Expo/Millennium Line,Saturday,PT,JY,Patterson Stn,Joyce Stn,Outbound,3,44696.87864
+2024,Expo/Millennium Line,Saturday,PW,LC,Production Way Stn,Lake City Way Stn,Inbound,48,10231.25604
+2024,Expo/Millennium Line,Saturday,PW,LC,Production Way Stn,Lake City Way Stn,Outbound,48,9865.45474
+2024,Expo/Millennium Line,Saturday,RE,CM,Renfrew Stn,Commercial Drive Stn,Inbound,32,14594.10742
+2024,Expo/Millennium Line,Saturday,RE,CM,Renfrew Stn,Commercial Drive Stn,Outbound,32,13408.28936
+2024,Expo/Millennium Line,Saturday,RO,MT,Royal Oak Stn,Metrotown Stn,Inbound,6,44303.24225
+2024,Expo/Millennium Line,Saturday,RO,MT,Royal Oak Stn,Metrotown Stn,Outbound,6,41784.85445
+2024,Expo/Millennium Line,Saturday,RU,RE,Rupert Stn,Renfrew Stn,Inbound,34,13904.82743
+2024,Expo/Millennium Line,Saturday,RU,RE,Rupert Stn,Renfrew Stn,Outbound,34,12926.05913
+2024,Expo/Millennium Line,Saturday,SA,CO,Sapperton Stn,Columbia Stn,Inbound,16,12404.23675
+2024,Expo/Millennium Line,Saturday,SA,CO,Sapperton Stn,Columbia Stn,Outbound,16,12094.78142
+2024,Expo/Millennium Line,Saturday,SC,GW,Surrey Central Stn,Gateway Stn,Inbound,21,21831.2985
+2024,Expo/Millennium Line,Saturday,SC,GW,Surrey Central Stn,Gateway Stn,Outbound,21,21135.28692
+2024,Expo/Millennium Line,Saturday,SP,HO,Sperling Stn,Holdom Stn,Inbound,42,10726.8072
+2024,Expo/Millennium Line,Saturday,SP,HO,Sperling Stn,Holdom Stn,Outbound,42,10164.1582
+2024,Expo/Millennium Line,Saturday,SR,CO,Scott Road Stn,Columbia Stn,Inbound,17,30485.00927
+2024,Expo/Millennium Line,Saturday,SR,CO,Scott Road Stn,Columbia Stn,Outbound,17,29371.72639
+2024,Expo/Millennium Line,Saturday,ST,GV,Stadium Stn,Granville Stn,Inbound,46,39374.06762
+2024,Expo/Millennium Line,Saturday,ST,GV,Stadium Stn,Granville Stn,Outbound,46,37955.60969
+2024,Expo/Millennium Line,Saturday,TN,,29th Av Stn,Nanaimo Stn,Inbound,64,46405.21454
+2024,Expo/Millennium Line,Saturday,TN,,29th Av Stn,Nanaimo Stn,Outbound,64,44890.9015
+2024,Expo/Millennium Line,Saturday,TS,ED,22nd St Stn,Edmonds Stn,Inbound,10,39455.5834
+2024,Expo/Millennium Line,Saturday,TS,ED,22nd St Stn,Edmonds Stn,Outbound,10,37344.50341
+2024,Expo/Millennium Line,Sunday/Holiday,BD,SA,Braid Stn,Sapperton Stn,Inbound,56,8395.752657
+2024,Expo/Millennium Line,Sunday/Holiday,BD,SA,Braid Stn,Sapperton Stn,Outbound,56,8452.306763
+2024,Expo/Millennium Line,Sunday/Holiday,BQ,LH,Burquitlam Stn,Lougheed Stn,Inbound,68,8222.224251
+2024,Expo/Millennium Line,Sunday/Holiday,BQ,LH,Burquitlam Stn,Lougheed Stn,Outbound,68,8259.093792
+2024,Expo/Millennium Line,Sunday/Holiday,BR,GM,Brentwood Stn,Gilmore Stn,Inbound,38,8868.671481
+2024,Expo/Millennium Line,Sunday/Holiday,BR,GM,Brentwood Stn,Gilmore Stn,Outbound,38,8825.386134
+2024,Expo/Millennium Line,Sunday/Holiday,BU,WF,Burrard Stn,Waterfront Stn - Expo/SeaBus,Inbound,23,9095.974066
+2024,Expo/Millennium Line,Sunday/Holiday,BU,WF,Burrard Stn,Waterfront Stn - Expo/SeaBus,Outbound,23,10803.54177
+2024,Expo/Millennium Line,Sunday/Holiday,BW,CM,Commercial-Broadway Stn,Commercial Drive Stn,Inbound,59,10203.30858
+2024,Expo/Millennium Line,Sunday/Holiday,BW,CM,Commercial-Broadway Stn,Commercial Drive Stn,Outbound,59,11724.18372
+2024,Expo/Millennium Line,Sunday/Holiday,BW,MN,Commercial-Broadway Stn,Main Street Stn,Inbound,60,37669.35361
+2024,Expo/Millennium Line,Sunday/Holiday,BW,MN,Commercial-Broadway Stn,Main Street Stn,Outbound,60,38003.24848
+2024,Expo/Millennium Line,Sunday/Holiday,CC,IC,Coquitlam Central Stn - Millennium,Inlet Centre Stn,Inbound,74,5751.376445
+2024,Expo/Millennium Line,Sunday/Holiday,CC,IC,Coquitlam Central Stn - Millennium,Inlet Centre Stn,Outbound,74,5735.612057
+2024,Expo/Millennium Line,Sunday/Holiday,CM,VC,Commercial Drive Stn,VCC-Clark Stn,Inbound,29,814.4966962
+2024,Expo/Millennium Line,Sunday/Holiday,CM,VC,Commercial Drive Stn,VCC-Clark Stn,Outbound,29,919.7025685
+2024,Expo/Millennium Line,Sunday/Holiday,CO,NW,Columbia Stn,New Westminster Stn,Inbound,14,27644.26754
+2024,Expo/Millennium Line,Sunday/Holiday,CO,NW,Columbia Stn,New Westminster Stn,Outbound,14,26828.63785
+2024,Expo/Millennium Line,Sunday/Holiday,ED,RO,Edmonds Stn,Royal Oak Stn,Inbound,8,31600.66857
+2024,Expo/Millennium Line,Sunday/Holiday,ED,RO,Edmonds Stn,Royal Oak Stn,Outbound,8,30537.16053
+2024,Expo/Millennium Line,Sunday/Holiday,GM,RU,Gilmore Stn,Rupert Stn,Inbound,36,9228.487932
+2024,Expo/Millennium Line,Sunday/Holiday,GM,RU,Gilmore Stn,Rupert Stn,Outbound,36,8980.178901
+2024,Expo/Millennium Line,Sunday/Holiday,GV,BU,Granville Stn,Burrard Stn,Inbound,26,17264.90748
+2024,Expo/Millennium Line,Sunday/Holiday,GV,BU,Granville Stn,Burrard Stn,Outbound,26,19245.84872
+2024,Expo/Millennium Line,Sunday/Holiday,GW,SR,Gateway Stn,Scott Road Stn,Inbound,19,19248.72419
+2024,Expo/Millennium Line,Sunday/Holiday,GW,SR,Gateway Stn,Scott Road Stn,Outbound,19,18739.14449
+2024,Expo/Millennium Line,Sunday/Holiday,HO,BR,Holdom Stn,Brentwood Stn,Inbound,40,8104.117002
+2024,Expo/Millennium Line,Sunday/Holiday,HO,BR,Holdom Stn,Brentwood Stn,Outbound,40,7808.579854
+2024,Expo/Millennium Line,Sunday/Holiday,IC,MC,Inlet Centre Stn,Moody Center Stn,Inbound,72,6374.352476
+2024,Expo/Millennium Line,Sunday/Holiday,IC,MC,Inlet Centre Stn,Moody Center Stn,Outbound,72,6332.798254
+2024,Expo/Millennium Line,Sunday/Holiday,JY,TN,Joyce Stn,29th Av Stn,Inbound,67,34011.57163
+2024,Expo/Millennium Line,Sunday/Holiday,JY,TN,Joyce Stn,29th Av Stn,Outbound,67,34338.38959
+2024,Expo/Millennium Line,Sunday/Holiday,KG,SC,King George Stn,Surrey Central Stn,Inbound,25,6882.243452
+2024,Expo/Millennium Line,Sunday/Holiday,KG,SC,King George Stn,Surrey Central Stn,Outbound,25,3340.629881
+2024,Expo/Millennium Line,Sunday/Holiday,LC,SP,Lake City Way Stn,Sperling Stn,Inbound,44,7225.492663
+2024,Expo/Millennium Line,Sunday/Holiday,LC,SP,Lake City Way Stn,Sperling Stn,Outbound,44,7156.306791
+2024,Expo/Millennium Line,Sunday/Holiday,LH,BD,Lougheed Stn,Braid Stn,Inbound,53,7191.568296
+2024,Expo/Millennium Line,Sunday/Holiday,LH,BD,Lougheed Stn,Braid Stn,Outbound,53,7218.442798
+2024,Expo/Millennium Line,Sunday/Holiday,LH,PW,Lougheed Stn,Production Way Stn,Inbound,50,7799.575151
+2024,Expo/Millennium Line,Sunday/Holiday,LH,PW,Lougheed Stn,Production Way Stn,Outbound,50,7747.415441
+2024,Expo/Millennium Line,Sunday/Holiday,LL,LN,Lafarge Lake/Douglas College Stn,Lincoln Stn,Inbound,78,1178.271907
+2024,Expo/Millennium Line,Sunday/Holiday,LL,LN,Lafarge Lake/Douglas College Stn,Lincoln Stn,Outbound,78,1250.692802
+2024,Expo/Millennium Line,Sunday/Holiday,LN,CC,Lincoln Stn,Coquitlam Central Stn - Millennium,Inbound,76,3341.245815
+2024,Expo/Millennium Line,Sunday/Holiday,LN,CC,Lincoln Stn,Coquitlam Central Stn - Millennium,Outbound,76,3193.484767
+2024,Expo/Millennium Line,Sunday/Holiday,MC,BQ,Moody Center Stn,Burquitlam Stn,Inbound,70,7060.822372
+2024,Expo/Millennium Line,Sunday/Holiday,MC,BQ,Moody Center Stn,Burquitlam Stn,Outbound,70,7012.31898
+2024,Expo/Millennium Line,Sunday/Holiday,MN,ST,Main Street Stn,Stadium Stn,Inbound,57,35515.43712
+2024,Expo/Millennium Line,Sunday/Holiday,MN,ST,Main Street Stn,Stadium Stn,Outbound,57,35552.80079
+2024,Expo/Millennium Line,Sunday/Holiday,MT,PT,Metrotown Stn,Patterson Stn,Inbound,4,34170.27498
+2024,Expo/Millennium Line,Sunday/Holiday,MT,PT,Metrotown Stn,Patterson Stn,Outbound,4,34299.13865
+2024,Expo/Millennium Line,Sunday/Holiday,,BW,Nanaimo Stn,Commercial-Broadway Stn,Inbound,62,34499.93967
+2024,Expo/Millennium Line,Sunday/Holiday,,BW,Nanaimo Stn,Commercial-Broadway Stn,Outbound,62,34865.36086
+2024,Expo/Millennium Line,Sunday/Holiday,NW,TS,New Westminster Stn,22nd St Stn,Inbound,12,28614.75106
+2024,Expo/Millennium Line,Sunday/Holiday,NW,TS,New Westminster Stn,22nd St Stn,Outbound,12,28071.92629
+2024,Expo/Millennium Line,Sunday/Holiday,PT,JY,Patterson Stn,Joyce Stn,Inbound,3,34460.56189
+2024,Expo/Millennium Line,Sunday/Holiday,PT,JY,Patterson Stn,Joyce Stn,Outbound,3,34786.43211
+2024,Expo/Millennium Line,Sunday/Holiday,PW,LC,Production Way Stn,Lake City Way Stn,Inbound,48,7182.351507
+2024,Expo/Millennium Line,Sunday/Holiday,PW,LC,Production Way Stn,Lake City Way Stn,Outbound,48,7117.167948
+2024,Expo/Millennium Line,Sunday/Holiday,RE,CM,Renfrew Stn,Commercial Drive Stn,Inbound,32,10208.93323
+2024,Expo/Millennium Line,Sunday/Holiday,RE,CM,Renfrew Stn,Commercial Drive Stn,Outbound,32,9767.305169
+2024,Expo/Millennium Line,Sunday/Holiday,RO,MT,Royal Oak Stn,Metrotown Stn,Inbound,6,32962.65313
+2024,Expo/Millennium Line,Sunday/Holiday,RO,MT,Royal Oak Stn,Metrotown Stn,Outbound,6,31923.29547
+2024,Expo/Millennium Line,Sunday/Holiday,RU,RE,Rupert Stn,Renfrew Stn,Inbound,34,9763.900881
+2024,Expo/Millennium Line,Sunday/Holiday,RU,RE,Rupert Stn,Renfrew Stn,Outbound,34,9471.658881
+2024,Expo/Millennium Line,Sunday/Holiday,SA,CO,Sapperton Stn,Columbia Stn,Inbound,16,9242.935406
+2024,Expo/Millennium Line,Sunday/Holiday,SA,CO,Sapperton Stn,Columbia Stn,Outbound,16,9141.340698
+2024,Expo/Millennium Line,Sunday/Holiday,SC,GW,Surrey Central Stn,Gateway Stn,Inbound,21,16695.81267
+2024,Expo/Millennium Line,Sunday/Holiday,SC,GW,Surrey Central Stn,Gateway Stn,Outbound,21,16489.10588
+2024,Expo/Millennium Line,Sunday/Holiday,SP,HO,Sperling Stn,Holdom Stn,Inbound,42,7485.53544
+2024,Expo/Millennium Line,Sunday/Holiday,SP,HO,Sperling Stn,Holdom Stn,Outbound,42,7324.927495
+2024,Expo/Millennium Line,Sunday/Holiday,SR,CO,Scott Road Stn,Columbia Stn,Inbound,17,22874.88029
+2024,Expo/Millennium Line,Sunday/Holiday,SR,CO,Scott Road Stn,Columbia Stn,Outbound,17,22489.66834
+2024,Expo/Millennium Line,Sunday/Holiday,ST,GV,Stadium Stn,Granville Stn,Inbound,46,29881.72467
+2024,Expo/Millennium Line,Sunday/Holiday,ST,GV,Stadium Stn,Granville Stn,Outbound,46,30094.48467
+2024,Expo/Millennium Line,Sunday/Holiday,TN,,29th Av Stn,Nanaimo Stn,Inbound,64,34260.8906
+2024,Expo/Millennium Line,Sunday/Holiday,TN,,29th Av Stn,Nanaimo Stn,Outbound,64,34667.82741
+2024,Expo/Millennium Line,Sunday/Holiday,TS,ED,22nd St Stn,Edmonds Stn,Inbound,10,29212.04655
+2024,Expo/Millennium Line,Sunday/Holiday,TS,ED,22nd St Stn,Edmonds Stn,Outbound,10,28361.21918
+2025,Canada Line,Weekday,AB,CP,Aberdeen Stn,Capstan Stn,Inbound,215,16101.94159
+2025,Canada Line,Weekday,AB,CP,Aberdeen Stn,Capstan Stn,Outbound,215,16019.95675
+2025,Canada Line,Weekday,BC,OV,Broadway-City Hall Stn,Olympic Village Stn,Inbound,83,33269.071
+2025,Canada Line,Weekday,BC,OV,Broadway-City Hall Stn,Olympic Village Stn,Outbound,83,32458.40069
+2025,Canada Line,Weekday,BP,MD,Bridgeport Stn,Marine Drive Stn,Inbound,88,28582.2809
+2025,Canada Line,Weekday,BP,MD,Bridgeport Stn,Marine Drive Stn,Outbound,88,28643.56476
+2025,Canada Line,Weekday,CP,BP,Capstan Stn,Bridgeport Stn,Inbound,216,16980.06153
+2025,Canada Line,Weekday,CP,BP,Capstan Stn,Bridgeport Stn,Outbound,216,16848.45785
+2025,Canada Line,Weekday,KE,BC,King Edward Stn,Broadway-City Hall Stn,Inbound,84,34960.05183
+2025,Canada Line,Weekday,KE,BC,King Edward Stn,Broadway-City Hall Stn,Outbound,84,34290.87114
+2025,Canada Line,Weekday,LA,AB,Lansdowne Stn,Aberdeen Stn,Inbound,90,14339.38616
+2025,Canada Line,Weekday,LA,AB,Lansdowne Stn,Aberdeen Stn,Outbound,90,14032.43024
+2025,Canada Line,Weekday,LG,OR,Langara-49th Stn,Oakridge-41st Stn,Inbound,86,33483.73536
+2025,Canada Line,Weekday,LG,OR,Langara-49th Stn,Oakridge-41st Stn,Outbound,86,33142.19417
+2025,Canada Line,Weekday,MD,LG,Marine Drive Stn,Langara-49th Stn,Inbound,87,31936.32977
+2025,Canada Line,Weekday,MD,LG,Marine Drive Stn,Langara-49th Stn,Outbound,87,31969.49699
+2025,Canada Line,Weekday,OR,KE,Oakridge-41st Stn,King Edward Stn,Inbound,85,33578.61859
+2025,Canada Line,Weekday,OR,KE,Oakridge-41st Stn,King Edward Stn,Outbound,85,32944.47048
+2025,Canada Line,Weekday,OV,YT,Olympic Village Stn,Yaletown-Roundhouse Stn,Inbound,82,33546.82231
+2025,Canada Line,Weekday,OV,YT,Olympic Village Stn,Yaletown-Roundhouse Stn,Outbound,82,32335.26685
+2025,Canada Line,Weekday,RB,LA,Brighouse Stn,Lansdowne Stn,Inbound,91,10701.9728
+2025,Canada Line,Weekday,RB,LA,Brighouse Stn,Lansdowne Stn,Outbound,91,10248.72554
+2025,Canada Line,Weekday,SI,TE,Sea Island Stn,Templeton Stn,Inbound,93,8240.280074
+2025,Canada Line,Weekday,SI,TE,Sea Island Stn,Templeton Stn,Outbound,93,8082.977266
+2025,Canada Line,Weekday,TE,BP,Templeton Stn,Bridgeport Stn,Inbound,92,7827.562341
+2025,Canada Line,Weekday,TE,BP,Templeton Stn,Bridgeport Stn,Outbound,92,7924.368911
+2025,Canada Line,Weekday,VA,WC,Vancouver City Centre Stn,Waterfront Stn - CL,Inbound,80,14975.26142
+2025,Canada Line,Weekday,VA,WC,Vancouver City Centre Stn,Waterfront Stn - CL,Outbound,80,14170.18546
+2025,Canada Line,Weekday,YA,SI,YVR-Airport Stn,Sea Island Stn,Inbound,94,7975.386312
+2025,Canada Line,Weekday,YA,SI,YVR-Airport Stn,Sea Island Stn,Outbound,94,7688.00249
+2025,Canada Line,Weekday,YT,VA,Yaletown-Roundhouse Stn,Vancouver City Centre Stn,Inbound,81,29191.4722
+2025,Canada Line,Weekday,YT,VA,Yaletown-Roundhouse Stn,Vancouver City Centre Stn,Outbound,81,27710.31349
+2025,Canada Line,Saturday,AB,CP,Aberdeen Stn,Capstan Stn,Inbound,215,13676.05648
+2025,Canada Line,Saturday,AB,CP,Aberdeen Stn,Capstan Stn,Outbound,215,13464.61722
+2025,Canada Line,Saturday,BC,OV,Broadway-City Hall Stn,Olympic Village Stn,Inbound,83,26171.54042
+2025,Canada Line,Saturday,BC,OV,Broadway-City Hall Stn,Olympic Village Stn,Outbound,83,24973.09887
+2025,Canada Line,Saturday,BP,MD,Bridgeport Stn,Marine Drive Stn,Inbound,88,24399.52818
+2025,Canada Line,Saturday,BP,MD,Bridgeport Stn,Marine Drive Stn,Outbound,88,24082.83325
+2025,Canada Line,Saturday,CP,BP,Capstan Stn,Bridgeport Stn,Inbound,216,14369.51101
+2025,Canada Line,Saturday,CP,BP,Capstan Stn,Bridgeport Stn,Outbound,216,14101.96146
+2025,Canada Line,Saturday,KE,BC,King Edward Stn,Broadway-City Hall Stn,Inbound,84,27297.39601
+2025,Canada Line,Saturday,KE,BC,King Edward Stn,Broadway-City Hall Stn,Outbound,84,26159.11416
+2025,Canada Line,Saturday,LA,AB,Lansdowne Stn,Aberdeen Stn,Inbound,90,11842.11122
+2025,Canada Line,Saturday,LA,AB,Lansdowne Stn,Aberdeen Stn,Outbound,90,11501.16109
+2025,Canada Line,Saturday,LG,OR,Langara-49th Stn,Oakridge-41st Stn,Inbound,86,26678.12347
+2025,Canada Line,Saturday,LG,OR,Langara-49th Stn,Oakridge-41st Stn,Outbound,86,25805.52223
+2025,Canada Line,Saturday,MD,LG,Marine Drive Stn,Langara-49th Stn,Inbound,87,25967.94529
+2025,Canada Line,Saturday,MD,LG,Marine Drive Stn,Langara-49th Stn,Outbound,87,25428.46259
+2025,Canada Line,Saturday,OR,KE,Oakridge-41st Stn,King Edward Stn,Inbound,85,26481.22717
+2025,Canada Line,Saturday,OR,KE,Oakridge-41st Stn,King Edward Stn,Outbound,85,25342.56389
+2025,Canada Line,Saturday,OV,YT,Olympic Village Stn,Yaletown-Roundhouse Stn,Inbound,82,26124.6025
+2025,Canada Line,Saturday,OV,YT,Olympic Village Stn,Yaletown-Roundhouse Stn,Outbound,82,24788.06081
+2025,Canada Line,Saturday,RB,LA,Brighouse Stn,Lansdowne Stn,Inbound,91,8699.776053
+2025,Canada Line,Saturday,RB,LA,Brighouse Stn,Lansdowne Stn,Outbound,91,8357.47173
+2025,Canada Line,Saturday,SI,TE,Sea Island Stn,Templeton Stn,Inbound,93,7378.152167
+2025,Canada Line,Saturday,SI,TE,Sea Island Stn,Templeton Stn,Outbound,93,7028.722145
+2025,Canada Line,Saturday,TE,BP,Templeton Stn,Bridgeport Stn,Inbound,92,7808.892671
+2025,Canada Line,Saturday,TE,BP,Templeton Stn,Bridgeport Stn,Outbound,92,7677.311901
+2025,Canada Line,Saturday,VA,WC,Vancouver City Centre Stn,Waterfront Stn - CL,Inbound,80,11113.12689
+2025,Canada Line,Saturday,VA,WC,Vancouver City Centre Stn,Waterfront Stn - CL,Outbound,80,10340.93706
+2025,Canada Line,Saturday,YA,SI,YVR-Airport Stn,Sea Island Stn,Inbound,94,7331.739096
+2025,Canada Line,Saturday,YA,SI,YVR-Airport Stn,Sea Island Stn,Outbound,94,6894.381412
+2025,Canada Line,Saturday,YT,VA,Yaletown-Roundhouse Stn,Vancouver City Centre Stn,Inbound,81,22345.52074
+2025,Canada Line,Saturday,YT,VA,Yaletown-Roundhouse Stn,Vancouver City Centre Stn,Outbound,81,21004.67726
+2025,Canada Line,Sunday/Holiday,AB,CP,Aberdeen Stn,Capstan Stn,Inbound,215,11235.4812
+2025,Canada Line,Sunday/Holiday,AB,CP,Aberdeen Stn,Capstan Stn,Outbound,215,11058.27935
+2025,Canada Line,Sunday/Holiday,BC,OV,Broadway-City Hall Stn,Olympic Village Stn,Inbound,83,21601.84893
+2025,Canada Line,Sunday/Holiday,BC,OV,Broadway-City Hall Stn,Olympic Village Stn,Outbound,83,21259.16205
+2025,Canada Line,Sunday/Holiday,BP,MD,Bridgeport Stn,Marine Drive Stn,Inbound,88,21302.88171
+2025,Canada Line,Sunday/Holiday,BP,MD,Bridgeport Stn,Marine Drive Stn,Outbound,88,20744.48312
+2025,Canada Line,Sunday/Holiday,CP,BP,Capstan Stn,Bridgeport Stn,Inbound,216,11802.94933
+2025,Canada Line,Sunday/Holiday,CP,BP,Capstan Stn,Bridgeport Stn,Outbound,216,11600.30924
+2025,Canada Line,Sunday/Holiday,KE,BC,King Edward Stn,Broadway-City Hall Stn,Inbound,84,22872.8878
+2025,Canada Line,Sunday/Holiday,KE,BC,King Edward Stn,Broadway-City Hall Stn,Outbound,84,22359.60732
+2025,Canada Line,Sunday/Holiday,LA,AB,Lansdowne Stn,Aberdeen Stn,Inbound,90,9691.738522
+2025,Canada Line,Sunday/Holiday,LA,AB,Lansdowne Stn,Aberdeen Stn,Outbound,90,9435.935544
+2025,Canada Line,Sunday/Holiday,LG,OR,Langara-49th Stn,Oakridge-41st Stn,Inbound,86,22792.22517
+2025,Canada Line,Sunday/Holiday,LG,OR,Langara-49th Stn,Oakridge-41st Stn,Outbound,86,22034.50141
+2025,Canada Line,Sunday/Holiday,MD,LG,Marine Drive Stn,Langara-49th Stn,Inbound,87,22377.16057
+2025,Canada Line,Sunday/Holiday,MD,LG,Marine Drive Stn,Langara-49th Stn,Outbound,87,21761.21055
+2025,Canada Line,Sunday/Holiday,OR,KE,Oakridge-41st Stn,King Edward Stn,Inbound,85,22418.08535
+2025,Canada Line,Sunday/Holiday,OR,KE,Oakridge-41st Stn,King Edward Stn,Outbound,85,21626.37003
+2025,Canada Line,Sunday/Holiday,OV,YT,Olympic Village Stn,Yaletown-Roundhouse Stn,Inbound,82,21504.86384
+2025,Canada Line,Sunday/Holiday,OV,YT,Olympic Village Stn,Yaletown-Roundhouse Stn,Outbound,82,21054.55904
+2025,Canada Line,Sunday/Holiday,RB,LA,Brighouse Stn,Lansdowne Stn,Inbound,91,7233.579096
+2025,Canada Line,Sunday/Holiday,RB,LA,Brighouse Stn,Lansdowne Stn,Outbound,91,6972.386029
+2025,Canada Line,Sunday/Holiday,SI,TE,Sea Island Stn,Templeton Stn,Inbound,93,7703.332232
+2025,Canada Line,Sunday/Holiday,SI,TE,Sea Island Stn,Templeton Stn,Outbound,93,6902.986424
+2025,Canada Line,Sunday/Holiday,TE,BP,Templeton Stn,Bridgeport Stn,Inbound,92,8085.729901
+2025,Canada Line,Sunday/Holiday,TE,BP,Templeton Stn,Bridgeport Stn,Outbound,92,7658.902913
+2025,Canada Line,Sunday/Holiday,VA,WC,Vancouver City Centre Stn,Waterfront Stn - CL,Inbound,80,9168.09136
+2025,Canada Line,Sunday/Holiday,VA,WC,Vancouver City Centre Stn,Waterfront Stn - CL,Outbound,80,8810.537156
+2025,Canada Line,Sunday/Holiday,YA,SI,YVR-Airport Stn,Sea Island Stn,Inbound,94,7720.246037
+2025,Canada Line,Sunday/Holiday,YA,SI,YVR-Airport Stn,Sea Island Stn,Outbound,94,6808.465449
+2025,Canada Line,Sunday/Holiday,YT,VA,Yaletown-Roundhouse Stn,Vancouver City Centre Stn,Inbound,81,18496.78895
+2025,Canada Line,Sunday/Holiday,YT,VA,Yaletown-Roundhouse Stn,Vancouver City Centre Stn,Outbound,81,17802.85507
+2025,Expo/Millennium Line,Weekday,BD,SA,Braid Stn,Sapperton Stn,Inbound,56,15887.78199
+2025,Expo/Millennium Line,Weekday,BD,SA,Braid Stn,Sapperton Stn,Outbound,56,15920.06493
+2025,Expo/Millennium Line,Weekday,BQ,LH,Burquitlam Stn,Lougheed Stn,Inbound,68,14439.3447
+2025,Expo/Millennium Line,Weekday,BQ,LH,Burquitlam Stn,Lougheed Stn,Outbound,68,14294.60575
+2025,Expo/Millennium Line,Weekday,BR,GM,Brentwood Stn,Gilmore Stn,Inbound,38,17586.89684
+2025,Expo/Millennium Line,Weekday,BR,GM,Brentwood Stn,Gilmore Stn,Outbound,38,17182.4006
+2025,Expo/Millennium Line,Weekday,BU,WF,Burrard Stn,Waterfront Stn - Expo/SeaBus,Inbound,23,14143.84533
+2025,Expo/Millennium Line,Weekday,BU,WF,Burrard Stn,Waterfront Stn - Expo/SeaBus,Outbound,23,17553.57795
+2025,Expo/Millennium Line,Weekday,BW,CM,Commercial-Broadway Stn,Commercial Drive Stn,Inbound,59,19412.73015
+2025,Expo/Millennium Line,Weekday,BW,CM,Commercial-Broadway Stn,Commercial Drive Stn,Outbound,59,19749.56174
+2025,Expo/Millennium Line,Weekday,BW,MN,Commercial-Broadway Stn,Main Street Stn,Inbound,60,63448.58146
+2025,Expo/Millennium Line,Weekday,BW,MN,Commercial-Broadway Stn,Main Street Stn,Outbound,60,63171.84469
+2025,Expo/Millennium Line,Weekday,CC,IC,Coquitlam Central Stn - Millennium,Inlet Centre Stn,Inbound,74,9900.67448
+2025,Expo/Millennium Line,Weekday,CC,IC,Coquitlam Central Stn - Millennium,Inlet Centre Stn,Outbound,74,9947.804493
+2025,Expo/Millennium Line,Weekday,CM,VC,Commercial Drive Stn,VCC-Clark Stn,Inbound,29,2608.918935
+2025,Expo/Millennium Line,Weekday,CM,VC,Commercial Drive Stn,VCC-Clark Stn,Outbound,29,2949.694945
+2025,Expo/Millennium Line,Weekday,CO,NW,Columbia Stn,New Westminster Stn,Inbound,14,49947.43062
+2025,Expo/Millennium Line,Weekday,CO,NW,Columbia Stn,New Westminster Stn,Outbound,14,47620.07132
+2025,Expo/Millennium Line,Weekday,ED,RO,Edmonds Stn,Royal Oak Stn,Inbound,8,55383.34467
+2025,Expo/Millennium Line,Weekday,ED,RO,Edmonds Stn,Royal Oak Stn,Outbound,8,53090.60021
+2025,Expo/Millennium Line,Weekday,GM,RU,Gilmore Stn,Rupert Stn,Inbound,36,18337.11302
+2025,Expo/Millennium Line,Weekday,GM,RU,Gilmore Stn,Rupert Stn,Outbound,36,17656.97287
+2025,Expo/Millennium Line,Weekday,GV,BU,Granville Stn,Burrard Stn,Inbound,26,31248.26366
+2025,Expo/Millennium Line,Weekday,GV,BU,Granville Stn,Burrard Stn,Outbound,26,34283.16743
+2025,Expo/Millennium Line,Weekday,GW,SR,Gateway Stn,Scott Road Stn,Inbound,19,34080.43783
+2025,Expo/Millennium Line,Weekday,GW,SR,Gateway Stn,Scott Road Stn,Outbound,19,32319.67505
+2025,Expo/Millennium Line,Weekday,HO,BR,Holdom Stn,Brentwood Stn,Inbound,40,16634.41128
+2025,Expo/Millennium Line,Weekday,HO,BR,Holdom Stn,Brentwood Stn,Outbound,40,15925.77799
+2025,Expo/Millennium Line,Weekday,IC,MC,Inlet Centre Stn,Moody Center Stn,Inbound,72,11168.64438
+2025,Expo/Millennium Line,Weekday,IC,MC,Inlet Centre Stn,Moody Center Stn,Outbound,72,11208.46334
+2025,Expo/Millennium Line,Weekday,JY,TN,Joyce Stn,29th Av Stn,Inbound,67,56734.93665
+2025,Expo/Millennium Line,Weekday,JY,TN,Joyce Stn,29th Av Stn,Outbound,67,56623.27557
+2025,Expo/Millennium Line,Weekday,KG,SC,King George Stn,Surrey Central Stn,Inbound,25,14819.69609
+2025,Expo/Millennium Line,Weekday,KG,SC,King George Stn,Surrey Central Stn,Outbound,25,7949.931904
+2025,Expo/Millennium Line,Weekday,LC,SP,Lake City Way Stn,Sperling Stn,Inbound,44,14976.19132
+2025,Expo/Millennium Line,Weekday,LC,SP,Lake City Way Stn,Sperling Stn,Outbound,44,14717.84545
+2025,Expo/Millennium Line,Weekday,LH,BD,Lougheed Stn,Braid Stn,Inbound,53,13336.614
+2025,Expo/Millennium Line,Weekday,LH,BD,Lougheed Stn,Braid Stn,Outbound,53,13191.2947
+2025,Expo/Millennium Line,Weekday,LH,PW,Lougheed Stn,Production Way Stn,Inbound,50,16509.90393
+2025,Expo/Millennium Line,Weekday,LH,PW,Lougheed Stn,Production Way Stn,Outbound,50,16302.16743
+2025,Expo/Millennium Line,Weekday,LL,LN,Lafarge Lake/Douglas College Stn,Lincoln Stn,Inbound,78,2366.626055
+2025,Expo/Millennium Line,Weekday,LL,LN,Lafarge Lake/Douglas College Stn,Lincoln Stn,Outbound,78,2354.023926
+2025,Expo/Millennium Line,Weekday,LN,CC,Lincoln Stn,Coquitlam Central Stn - Millennium,Inbound,76,5884.305789
+2025,Expo/Millennium Line,Weekday,LN,CC,Lincoln Stn,Coquitlam Central Stn - Millennium,Outbound,76,5656.700348
+2025,Expo/Millennium Line,Weekday,MC,BQ,Moody Center Stn,Burquitlam Stn,Inbound,70,12267.67914
+2025,Expo/Millennium Line,Weekday,MC,BQ,Moody Center Stn,Burquitlam Stn,Outbound,70,12024.33999
+2025,Expo/Millennium Line,Weekday,MN,ST,Main Street Stn,Stadium Stn,Inbound,57,59826.30311
+2025,Expo/Millennium Line,Weekday,MN,ST,Main Street Stn,Stadium Stn,Outbound,57,59330.24524
+2025,Expo/Millennium Line,Weekday,MT,PT,Metrotown Stn,Patterson Stn,Inbound,4,55848.79501
+2025,Expo/Millennium Line,Weekday,MT,PT,Metrotown Stn,Patterson Stn,Outbound,4,55422.80388
+2025,Expo/Millennium Line,Weekday,,BW,Nanaimo Stn,Commercial-Broadway Stn,Inbound,62,58686.62158
+2025,Expo/Millennium Line,Weekday,,BW,Nanaimo Stn,Commercial-Broadway Stn,Outbound,62,58629.73863
+2025,Expo/Millennium Line,Weekday,NW,TS,New Westminster Stn,22nd St Stn,Inbound,12,50847.3613
+2025,Expo/Millennium Line,Weekday,NW,TS,New Westminster Stn,22nd St Stn,Outbound,12,49072.96357
+2025,Expo/Millennium Line,Weekday,PT,JY,Patterson Stn,Joyce Stn,Inbound,3,56177.40569
+2025,Expo/Millennium Line,Weekday,PT,JY,Patterson Stn,Joyce Stn,Outbound,3,55854.96057
+2025,Expo/Millennium Line,Weekday,PW,LC,Production Way Stn,Lake City Way Stn,Inbound,48,14892.34198
+2025,Expo/Millennium Line,Weekday,PW,LC,Production Way Stn,Lake City Way Stn,Outbound,48,14601.06071
+2025,Expo/Millennium Line,Weekday,RE,CM,Renfrew Stn,Commercial Drive Stn,Inbound,32,19952.98296
+2025,Expo/Millennium Line,Weekday,RE,CM,Renfrew Stn,Commercial Drive Stn,Outbound,32,19030.71223
+2025,Expo/Millennium Line,Weekday,RO,MT,Royal Oak Stn,Metrotown Stn,Inbound,6,57507.11317
+2025,Expo/Millennium Line,Weekday,RO,MT,Royal Oak Stn,Metrotown Stn,Outbound,6,55132.19502
+2025,Expo/Millennium Line,Weekday,RU,RE,Rupert Stn,Renfrew Stn,Inbound,34,19062.78737
+2025,Expo/Millennium Line,Weekday,RU,RE,Rupert Stn,Renfrew Stn,Outbound,34,18282.20933
+2025,Expo/Millennium Line,Weekday,SA,CO,Sapperton Stn,Columbia Stn,Inbound,16,17766.71256
+2025,Expo/Millennium Line,Weekday,SA,CO,Sapperton Stn,Columbia Stn,Outbound,16,17618.04902
+2025,Expo/Millennium Line,Weekday,SC,GW,Surrey Central Stn,Gateway Stn,Inbound,21,29145.26346
+2025,Expo/Millennium Line,Weekday,SC,GW,Surrey Central Stn,Gateway Stn,Outbound,21,28077.79808
+2025,Expo/Millennium Line,Weekday,SP,HO,Sperling Stn,Holdom Stn,Inbound,42,15489.42851
+2025,Expo/Millennium Line,Weekday,SP,HO,Sperling Stn,Holdom Stn,Outbound,42,15087.54607
+2025,Expo/Millennium Line,Weekday,SR,CO,Scott Road Stn,Columbia Stn,Inbound,17,41102.52752
+2025,Expo/Millennium Line,Weekday,SR,CO,Scott Road Stn,Columbia Stn,Outbound,17,39573.33666
+2025,Expo/Millennium Line,Weekday,ST,GV,Stadium Stn,Granville Stn,Inbound,46,50853.1401
+2025,Expo/Millennium Line,Weekday,ST,GV,Stadium Stn,Granville Stn,Outbound,46,50701.4171
+2025,Expo/Millennium Line,Weekday,TN,,29th Av Stn,Nanaimo Stn,Inbound,64,57798.26495
+2025,Expo/Millennium Line,Weekday,TN,,29th Av Stn,Nanaimo Stn,Outbound,64,57718.5927
+2025,Expo/Millennium Line,Weekday,TS,ED,22nd St Stn,Edmonds Stn,Inbound,10,51567.49688
+2025,Expo/Millennium Line,Weekday,TS,ED,22nd St Stn,Edmonds Stn,Outbound,10,49573.64837
+2025,Expo/Millennium Line,Saturday,BD,SA,Braid Stn,Sapperton Stn,Inbound,56,10647.87332
+2025,Expo/Millennium Line,Saturday,BD,SA,Braid Stn,Sapperton Stn,Outbound,56,10569.4813
+2025,Expo/Millennium Line,Saturday,BQ,LH,Burquitlam Stn,Lougheed Stn,Inbound,68,11293.53664
+2025,Expo/Millennium Line,Saturday,BQ,LH,Burquitlam Stn,Lougheed Stn,Outbound,68,11162.10732
+2025,Expo/Millennium Line,Saturday,BR,GM,Brentwood Stn,Gilmore Stn,Inbound,38,12441.21611
+2025,Expo/Millennium Line,Saturday,BR,GM,Brentwood Stn,Gilmore Stn,Outbound,38,11879.98218
+2025,Expo/Millennium Line,Saturday,BU,WF,Burrard Stn,Waterfront Stn - Expo/SeaBus,Inbound,23,11658.71417
+2025,Expo/Millennium Line,Saturday,BU,WF,Burrard Stn,Waterfront Stn - Expo/SeaBus,Outbound,23,13784.41426
+2025,Expo/Millennium Line,Saturday,BW,CM,Commercial-Broadway Stn,Commercial Drive Stn,Inbound,59,13671.17358
+2025,Expo/Millennium Line,Saturday,BW,CM,Commercial-Broadway Stn,Commercial Drive Stn,Outbound,59,15297.29716
+2025,Expo/Millennium Line,Saturday,BW,MN,Commercial-Broadway Stn,Main Street Stn,Inbound,60,49714.2924
+2025,Expo/Millennium Line,Saturday,BW,MN,Commercial-Broadway Stn,Main Street Stn,Outbound,60,47529.68252
+2025,Expo/Millennium Line,Saturday,CC,IC,Coquitlam Central Stn - Millennium,Inlet Centre Stn,Inbound,74,7692.167446
+2025,Expo/Millennium Line,Saturday,CC,IC,Coquitlam Central Stn - Millennium,Inlet Centre Stn,Outbound,74,7612.693984
+2025,Expo/Millennium Line,Saturday,CM,VC,Commercial Drive Stn,VCC-Clark Stn,Inbound,29,1176.045098
+2025,Expo/Millennium Line,Saturday,CM,VC,Commercial Drive Stn,VCC-Clark Stn,Outbound,29,1384.779912
+2025,Expo/Millennium Line,Saturday,CO,NW,Columbia Stn,New Westminster Stn,Inbound,14,35185.88817
+2025,Expo/Millennium Line,Saturday,CO,NW,Columbia Stn,New Westminster Stn,Outbound,14,33537.27199
+2025,Expo/Millennium Line,Saturday,ED,RO,Edmonds Stn,Royal Oak Stn,Inbound,8,40596.12132
+2025,Expo/Millennium Line,Saturday,ED,RO,Edmonds Stn,Royal Oak Stn,Outbound,8,38274.97922
+2025,Expo/Millennium Line,Saturday,GM,RU,Gilmore Stn,Rupert Stn,Inbound,36,13042.31463
+2025,Expo/Millennium Line,Saturday,GM,RU,Gilmore Stn,Rupert Stn,Outbound,36,12246.78964
+2025,Expo/Millennium Line,Saturday,GV,BU,Granville Stn,Burrard Stn,Inbound,26,22510.02112
+2025,Expo/Millennium Line,Saturday,GV,BU,Granville Stn,Burrard Stn,Outbound,26,24129.84328
+2025,Expo/Millennium Line,Saturday,GW,SR,Gateway Stn,Scott Road Stn,Inbound,19,23774.51096
+2025,Expo/Millennium Line,Saturday,GW,SR,Gateway Stn,Scott Road Stn,Outbound,19,22785.20489
+2025,Expo/Millennium Line,Saturday,HO,BR,Holdom Stn,Brentwood Stn,Inbound,40,11422.02631
+2025,Expo/Millennium Line,Saturday,HO,BR,Holdom Stn,Brentwood Stn,Outbound,40,10679.02536
+2025,Expo/Millennium Line,Saturday,IC,MC,Inlet Centre Stn,Moody Center Stn,Inbound,72,8546.852409
+2025,Expo/Millennium Line,Saturday,IC,MC,Inlet Centre Stn,Moody Center Stn,Outbound,72,8408.043595
+2025,Expo/Millennium Line,Saturday,JY,TN,Joyce Stn,29th Av Stn,Inbound,67,43755.90741
+2025,Expo/Millennium Line,Saturday,JY,TN,Joyce Stn,29th Av Stn,Outbound,67,42485.92033
+2025,Expo/Millennium Line,Saturday,KG,SC,King George Stn,Surrey Central Stn,Inbound,25,9751.16202
+2025,Expo/Millennium Line,Saturday,KG,SC,King George Stn,Surrey Central Stn,Outbound,25,4953.891553
+2025,Expo/Millennium Line,Saturday,LC,SP,Lake City Way Stn,Sperling Stn,Inbound,44,10206.59686
+2025,Expo/Millennium Line,Saturday,LC,SP,Lake City Way Stn,Sperling Stn,Outbound,44,9866.356153
+2025,Expo/Millennium Line,Saturday,LH,BD,Lougheed Stn,Braid Stn,Inbound,53,9057.437591
+2025,Expo/Millennium Line,Saturday,LH,BD,Lougheed Stn,Braid Stn,Outbound,53,8945.367835
+2025,Expo/Millennium Line,Saturday,LH,PW,Lougheed Stn,Production Way Stn,Inbound,50,10756.87825
+2025,Expo/Millennium Line,Saturday,LH,PW,Lougheed Stn,Production Way Stn,Outbound,50,10520.18396
+2025,Expo/Millennium Line,Saturday,LL,LN,Lafarge Lake/Douglas College Stn,Lincoln Stn,Inbound,78,1514.457528
+2025,Expo/Millennium Line,Saturday,LL,LN,Lafarge Lake/Douglas College Stn,Lincoln Stn,Outbound,78,1535.278116
+2025,Expo/Millennium Line,Saturday,LN,CC,Lincoln Stn,Coquitlam Central Stn - Millennium,Inbound,76,4350.466781
+2025,Expo/Millennium Line,Saturday,LN,CC,Lincoln Stn,Coquitlam Central Stn - Millennium,Outbound,76,4137.449515
+2025,Expo/Millennium Line,Saturday,MC,BQ,Moody Center Stn,Burquitlam Stn,Inbound,70,9522.234678
+2025,Expo/Millennium Line,Saturday,MC,BQ,Moody Center Stn,Burquitlam Stn,Outbound,70,9376.818692
+2025,Expo/Millennium Line,Saturday,MN,ST,Main Street Stn,Stadium Stn,Inbound,57,46722.38719
+2025,Expo/Millennium Line,Saturday,MN,ST,Main Street Stn,Stadium Stn,Outbound,57,44542.10472
+2025,Expo/Millennium Line,Saturday,MT,PT,Metrotown Stn,Patterson Stn,Inbound,4,43135.21351
+2025,Expo/Millennium Line,Saturday,MT,PT,Metrotown Stn,Patterson Stn,Outbound,4,42062.36405
+2025,Expo/Millennium Line,Saturday,,BW,Nanaimo Stn,Commercial-Broadway Stn,Inbound,62,44573.28038
+2025,Expo/Millennium Line,Saturday,,BW,Nanaimo Stn,Commercial-Broadway Stn,Outbound,62,43150.90296
+2025,Expo/Millennium Line,Saturday,NW,TS,New Westminster Stn,22nd St Stn,Inbound,12,36786.4699
+2025,Expo/Millennium Line,Saturday,NW,TS,New Westminster Stn,22nd St Stn,Outbound,12,35343.47756
+2025,Expo/Millennium Line,Saturday,PT,JY,Patterson Stn,Joyce Stn,Inbound,3,43636.38873
+2025,Expo/Millennium Line,Saturday,PT,JY,Patterson Stn,Joyce Stn,Outbound,3,42661.23343
+2025,Expo/Millennium Line,Saturday,PW,LC,Production Way Stn,Lake City Way Stn,Inbound,48,10132.00293
+2025,Expo/Millennium Line,Saturday,PW,LC,Production Way Stn,Lake City Way Stn,Outbound,48,9820.353219
+2025,Expo/Millennium Line,Saturday,RE,CM,Renfrew Stn,Commercial Drive Stn,Inbound,32,14041.18911
+2025,Expo/Millennium Line,Saturday,RE,CM,Renfrew Stn,Commercial Drive Stn,Outbound,32,12945.39826
+2025,Expo/Millennium Line,Saturday,RO,MT,Royal Oak Stn,Metrotown Stn,Inbound,6,42215.78991
+2025,Expo/Millennium Line,Saturday,RO,MT,Royal Oak Stn,Metrotown Stn,Outbound,6,39853.96223
+2025,Expo/Millennium Line,Saturday,RU,RE,Rupert Stn,Renfrew Stn,Inbound,34,13592.38173
+2025,Expo/Millennium Line,Saturday,RU,RE,Rupert Stn,Renfrew Stn,Outbound,34,12688.63454
+2025,Expo/Millennium Line,Saturday,SA,CO,Sapperton Stn,Columbia Stn,Inbound,16,11822.50733
+2025,Expo/Millennium Line,Saturday,SA,CO,Sapperton Stn,Columbia Stn,Outbound,16,11572.20656
+2025,Expo/Millennium Line,Saturday,SC,GW,Surrey Central Stn,Gateway Stn,Inbound,21,20396.25042
+2025,Expo/Millennium Line,Saturday,SC,GW,Surrey Central Stn,Gateway Stn,Outbound,21,19776.31439
+2025,Expo/Millennium Line,Saturday,SP,HO,Sperling Stn,Holdom Stn,Inbound,42,10572.89548
+2025,Expo/Millennium Line,Saturday,SP,HO,Sperling Stn,Holdom Stn,Outbound,42,10067.61269
+2025,Expo/Millennium Line,Saturday,SR,CO,Scott Road Stn,Columbia Stn,Inbound,17,28751.22688
+2025,Expo/Millennium Line,Saturday,SR,CO,Scott Road Stn,Columbia Stn,Outbound,17,27744.81179
+2025,Expo/Millennium Line,Saturday,ST,GV,Stadium Stn,Granville Stn,Inbound,46,38137.9473
+2025,Expo/Millennium Line,Saturday,ST,GV,Stadium Stn,Granville Stn,Outbound,46,36797.20832
+2025,Expo/Millennium Line,Saturday,TN,,29th Av Stn,Nanaimo Stn,Inbound,64,44229.52215
+2025,Expo/Millennium Line,Saturday,TN,,29th Av Stn,Nanaimo Stn,Outbound,64,42868.55196
+2025,Expo/Millennium Line,Saturday,TS,ED,22nd St Stn,Edmonds Stn,Inbound,10,37516.40891
+2025,Expo/Millennium Line,Saturday,TS,ED,22nd St Stn,Edmonds Stn,Outbound,10,35578.37307
+2025,Expo/Millennium Line,Sunday/Holiday,BD,SA,Braid Stn,Sapperton Stn,Inbound,56,8028.979005
+2025,Expo/Millennium Line,Sunday/Holiday,BD,SA,Braid Stn,Sapperton Stn,Outbound,56,8094.06197
+2025,Expo/Millennium Line,Sunday/Holiday,BQ,LH,Burquitlam Stn,Lougheed Stn,Inbound,68,8226.108606
+2025,Expo/Millennium Line,Sunday/Holiday,BQ,LH,Burquitlam Stn,Lougheed Stn,Outbound,68,8310.258005
+2025,Expo/Millennium Line,Sunday/Holiday,BR,GM,Brentwood Stn,Gilmore Stn,Inbound,38,8858.488448
+2025,Expo/Millennium Line,Sunday/Holiday,BR,GM,Brentwood Stn,Gilmore Stn,Outbound,38,8834.407868
+2025,Expo/Millennium Line,Sunday/Holiday,BU,WF,Burrard Stn,Waterfront Stn - Expo/SeaBus,Inbound,23,9325.969978
+2025,Expo/Millennium Line,Sunday/Holiday,BU,WF,Burrard Stn,Waterfront Stn - Expo/SeaBus,Outbound,23,11162.46514
+2025,Expo/Millennium Line,Sunday/Holiday,BW,CM,Commercial-Broadway Stn,Commercial Drive Stn,Inbound,59,10527.23158
+2025,Expo/Millennium Line,Sunday/Holiday,BW,CM,Commercial-Broadway Stn,Commercial Drive Stn,Outbound,59,11227.29817
+2025,Expo/Millennium Line,Sunday/Holiday,BW,MN,Commercial-Broadway Stn,Main Street Stn,Inbound,60,37313.95992
+2025,Expo/Millennium Line,Sunday/Holiday,BW,MN,Commercial-Broadway Stn,Main Street Stn,Outbound,60,37749.65768
+2025,Expo/Millennium Line,Sunday/Holiday,CC,IC,Coquitlam Central Stn - Millennium,Inlet Centre Stn,Inbound,74,5735.477777
+2025,Expo/Millennium Line,Sunday/Holiday,CC,IC,Coquitlam Central Stn - Millennium,Inlet Centre Stn,Outbound,74,5762.315895
+2025,Expo/Millennium Line,Sunday/Holiday,CM,VC,Commercial Drive Stn,VCC-Clark Stn,Inbound,29,825.7228305
+2025,Expo/Millennium Line,Sunday/Holiday,CM,VC,Commercial Drive Stn,VCC-Clark Stn,Outbound,29,923.0645943
+2025,Expo/Millennium Line,Sunday/Holiday,CO,NW,Columbia Stn,New Westminster Stn,Inbound,14,26896.01654
+2025,Expo/Millennium Line,Sunday/Holiday,CO,NW,Columbia Stn,New Westminster Stn,Outbound,14,26094.8672
+2025,Expo/Millennium Line,Sunday/Holiday,ED,RO,Edmonds Stn,Royal Oak Stn,Inbound,8,30845.6334
+2025,Expo/Millennium Line,Sunday/Holiday,ED,RO,Edmonds Stn,Royal Oak Stn,Outbound,8,29798.47712
+2025,Expo/Millennium Line,Sunday/Holiday,GM,RU,Gilmore Stn,Rupert Stn,Inbound,36,9306.69779
+2025,Expo/Millennium Line,Sunday/Holiday,GM,RU,Gilmore Stn,Rupert Stn,Outbound,36,9109.68272
+2025,Expo/Millennium Line,Sunday/Holiday,GV,BU,Granville Stn,Burrard Stn,Inbound,26,17398.24532
+2025,Expo/Millennium Line,Sunday/Holiday,GV,BU,Granville Stn,Burrard Stn,Outbound,26,19478.47677
+2025,Expo/Millennium Line,Sunday/Holiday,GW,SR,Gateway Stn,Scott Road Stn,Inbound,19,18477.04136
+2025,Expo/Millennium Line,Sunday/Holiday,GW,SR,Gateway Stn,Scott Road Stn,Outbound,19,18004.01193
+2025,Expo/Millennium Line,Sunday/Holiday,HO,BR,Holdom Stn,Brentwood Stn,Inbound,40,8096.341416
+2025,Expo/Millennium Line,Sunday/Holiday,HO,BR,Holdom Stn,Brentwood Stn,Outbound,40,7862.46128
+2025,Expo/Millennium Line,Sunday/Holiday,IC,MC,Inlet Centre Stn,Moody Center Stn,Inbound,72,6327.296473
+2025,Expo/Millennium Line,Sunday/Holiday,IC,MC,Inlet Centre Stn,Moody Center Stn,Outbound,72,6336.1571
+2025,Expo/Millennium Line,Sunday/Holiday,JY,TN,Joyce Stn,29th Av Stn,Inbound,67,33444.29976
+2025,Expo/Millennium Line,Sunday/Holiday,JY,TN,Joyce Stn,29th Av Stn,Outbound,67,33730.63812
+2025,Expo/Millennium Line,Sunday/Holiday,KG,SC,King George Stn,Surrey Central Stn,Inbound,25,7471.364634
+2025,Expo/Millennium Line,Sunday/Holiday,KG,SC,King George Stn,Surrey Central Stn,Outbound,25,3848.605969
+2025,Expo/Millennium Line,Sunday/Holiday,LC,SP,Lake City Way Stn,Sperling Stn,Inbound,44,7217.373777
+2025,Expo/Millennium Line,Sunday/Holiday,LC,SP,Lake City Way Stn,Sperling Stn,Outbound,44,7180.514003
+2025,Expo/Millennium Line,Sunday/Holiday,LH,BD,Lougheed Stn,Braid Stn,Inbound,53,6837.115426
+2025,Expo/Millennium Line,Sunday/Holiday,LH,BD,Lougheed Stn,Braid Stn,Outbound,53,6853.668067
+2025,Expo/Millennium Line,Sunday/Holiday,LH,PW,Lougheed Stn,Production Way Stn,Inbound,50,7719.581907
+2025,Expo/Millennium Line,Sunday/Holiday,LH,PW,Lougheed Stn,Production Way Stn,Outbound,50,7732.965326
+2025,Expo/Millennium Line,Sunday/Holiday,LL,LN,Lafarge Lake/Douglas College Stn,Lincoln Stn,Inbound,78,1175.61036
+2025,Expo/Millennium Line,Sunday/Holiday,LL,LN,Lafarge Lake/Douglas College Stn,Lincoln Stn,Outbound,78,1249.182318
+2025,Expo/Millennium Line,Sunday/Holiday,LN,CC,Lincoln Stn,Coquitlam Central Stn - Millennium,Inbound,76,3326.764871
+2025,Expo/Millennium Line,Sunday/Holiday,LN,CC,Lincoln Stn,Coquitlam Central Stn - Millennium,Outbound,76,3206.861095
+2025,Expo/Millennium Line,Sunday/Holiday,MC,BQ,Moody Center Stn,Burquitlam Stn,Inbound,70,7011.16287
+2025,Expo/Millennium Line,Sunday/Holiday,MC,BQ,Moody Center Stn,Burquitlam Stn,Outbound,70,7003.724119
+2025,Expo/Millennium Line,Sunday/Holiday,MN,ST,Main Street Stn,Stadium Stn,Inbound,57,35242.94082
+2025,Expo/Millennium Line,Sunday/Holiday,MN,ST,Main Street Stn,Stadium Stn,Outbound,57,35504.4052
+2025,Expo/Millennium Line,Sunday/Holiday,MT,PT,Metrotown Stn,Patterson Stn,Inbound,4,33393.33812
+2025,Expo/Millennium Line,Sunday/Holiday,MT,PT,Metrotown Stn,Patterson Stn,Outbound,4,33475.7174
+2025,Expo/Millennium Line,Sunday/Holiday,,BW,Nanaimo Stn,Commercial-Broadway Stn,Inbound,62,34020.01077
+2025,Expo/Millennium Line,Sunday/Holiday,,BW,Nanaimo Stn,Commercial-Broadway Stn,Outbound,62,34371.66058
+2025,Expo/Millennium Line,Sunday/Holiday,NW,TS,New Westminster Stn,22nd St Stn,Inbound,12,27942.56608
+2025,Expo/Millennium Line,Sunday/Holiday,NW,TS,New Westminster Stn,22nd St Stn,Outbound,12,27419.56791
+2025,Expo/Millennium Line,Sunday/Holiday,PT,JY,Patterson Stn,Joyce Stn,Inbound,3,33745.93131
+2025,Expo/Millennium Line,Sunday/Holiday,PT,JY,Patterson Stn,Joyce Stn,Outbound,3,34019.64081
+2025,Expo/Millennium Line,Sunday/Holiday,PW,LC,Production Way Stn,Lake City Way Stn,Inbound,48,7172.138689
+2025,Expo/Millennium Line,Sunday/Holiday,PW,LC,Production Way Stn,Lake City Way Stn,Outbound,48,7148.498267
+2025,Expo/Millennium Line,Sunday/Holiday,RE,CM,Renfrew Stn,Commercial Drive Stn,Inbound,32,10007.1233
+2025,Expo/Millennium Line,Sunday/Holiday,RE,CM,Renfrew Stn,Commercial Drive Stn,Outbound,32,9596.392828
+2025,Expo/Millennium Line,Sunday/Holiday,RO,MT,Royal Oak Stn,Metrotown Stn,Inbound,6,32180.1183
+2025,Expo/Millennium Line,Sunday/Holiday,RO,MT,Royal Oak Stn,Metrotown Stn,Outbound,6,31153.72965
+2025,Expo/Millennium Line,Sunday/Holiday,RU,RE,Rupert Stn,Renfrew Stn,Inbound,34,9729.776041
+2025,Expo/Millennium Line,Sunday/Holiday,RU,RE,Rupert Stn,Renfrew Stn,Outbound,34,9468.618801
+2025,Expo/Millennium Line,Sunday/Holiday,SA,CO,Sapperton Stn,Columbia Stn,Inbound,16,8920.810687
+2025,Expo/Millennium Line,Sunday/Holiday,SA,CO,Sapperton Stn,Columbia Stn,Outbound,16,8824.462269
+2025,Expo/Millennium Line,Sunday/Holiday,SC,GW,Surrey Central Stn,Gateway Stn,Inbound,21,15831.63436
+2025,Expo/Millennium Line,Sunday/Holiday,SC,GW,Surrey Central Stn,Gateway Stn,Outbound,21,15603.19353
+2025,Expo/Millennium Line,Sunday/Holiday,SP,HO,Sperling Stn,Holdom Stn,Inbound,42,7483.169294
+2025,Expo/Millennium Line,Sunday/Holiday,SP,HO,Sperling Stn,Holdom Stn,Outbound,42,7377.311481
+2025,Expo/Millennium Line,Sunday/Holiday,SR,CO,Scott Road Stn,Columbia Stn,Inbound,17,22109.16326
+2025,Expo/Millennium Line,Sunday/Holiday,SR,CO,Scott Road Stn,Columbia Stn,Outbound,17,21723.44868
+2025,Expo/Millennium Line,Sunday/Holiday,ST,GV,Stadium Stn,Granville Stn,Inbound,46,29526.75564
+2025,Expo/Millennium Line,Sunday/Holiday,ST,GV,Stadium Stn,Granville Stn,Outbound,46,29827.09144
+2025,Expo/Millennium Line,Sunday/Holiday,TN,,29th Av Stn,Nanaimo Stn,Inbound,64,33743.60377
+2025,Expo/Millennium Line,Sunday/Holiday,TN,,29th Av Stn,Nanaimo Stn,Outbound,64,34114.40423
+2025,Expo/Millennium Line,Sunday/Holiday,TS,ED,22nd St Stn,Edmonds Stn,Inbound,10,28467.02106
+2025,Expo/Millennium Line,Sunday/Holiday,TS,ED,22nd St Stn,Edmonds Stn,Outbound,10,27666.88296
