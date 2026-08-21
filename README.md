@@ -124,18 +124,22 @@ Examines station-level travel patterns, including PM peak boardings versus aligh
 Metro-Vancouver-SkyTrain-Analysis/
 │
 ├── data/
-│   └── cleaned/
-│
-├── notebooks/
-│   └── Python data cleaning and preparation
-│
-├── sql/
-│   └── SQL analysis queries
-│
-├── power_bi/
-│   └── Power BI dashboard
+│   ├── raw/
+│   └── processed/
 │
 ├── images/
-│   └── Dashboard screenshots
+│   ├── network_overview.png
+│   ├── demand_peak_analysis.png
+│   └── station_insights.png
+│
+├── notebooks/
+│   ├── 01_data_understanding.ipynb
+│   └── 02_data_cleaning.ipynb
+│
+├── power_bi/
+│   └── Metro_Vancouver_SkyTrain_Analysis.pbix
+│
+├── sql/
+│   └── skytrain_analysis.sql
 │
 └── README.md
